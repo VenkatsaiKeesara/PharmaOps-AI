@@ -1,0 +1,536 @@
+Pharm_Class,Category_ID,Category_Name
+Histamine H1 Receptor Antagonists [MoA],CAT001,Allergy
+Histamine H2 Receptor Antagonists [MoA],CAT001,Allergy
+Histamine-1 Receptor Antagonist [EPC],CAT001,Allergy
+Antihistamine [EPC],CAT001,Allergy
+Allergens [CS],CAT001,Allergy
+Decreased Histamine Release [PE],CAT001,Allergy
+Sulfonamide Antibacterial [EPC],CAT002,Antibiotics
+Quinolone Antimicrobial [EPC],CAT002,Antibiotics
+Fluoroquinolone Antibacterial [EPC],CAT002,Antibiotics
+Methylated Sulfonamide Antibacterial [EPC],CAT002,Antibiotics
+Cephalosporin Antibacterial [EPC],CAT002,Antibiotics
+Penicillin-class Antibacterial [EPC],CAT002,Antibiotics
+Macrolide Antibacterial [EPC],CAT002,Antibiotics
+Macrolide Antimicrobial [EPC],CAT002,Antibiotics
+Decreased Cholesterol Absorption [PE],CAT003,Cardiovascular
+N-Calcium Channel Receptor Antagonists [MoA],CAT003,Cardiovascular
+Alveolar Surface Tension Reduction [PE],CAT003,Cardiovascular
+Histone Deacetylase Inhibitor [EPC],CAT003,Cardiovascular
+Amyloid Beta-directed Antibody Interactions [MoA],CAT003,Cardiovascular
+Somatostatin Analog [EPC],CAT003,Cardiovascular
+Angiotensin 2 Receptor Antagonists [MoA],CAT003,Cardiovascular
+Angiotensin 2 Receptor Blocker [EPC],CAT003,Cardiovascular
+Angiotensin Converting Enzyme Inhibitor [EPC],CAT003,Cardiovascular
+Antibody-Surface Protein Interactions [MoA],CAT003,Cardiovascular
+Radiopharmaceutical Activity [MoA],CAT003,Cardiovascular
+Lysosomal beta Glucuronidase [EPC],CAT003,Cardiovascular
+Nitrate Vasodilator [EPC],CAT003,Cardiovascular
+Calcium Channel Antagonists [MoA],CAT003,Cardiovascular
+Prostacycline Vasodilator [EPC],CAT003,Cardiovascular
+Interferon beta [EPC],CAT003,Cardiovascular
+Decreased Sebaceous Gland Activity [PE],CAT003,Cardiovascular
+11-beta Hydroxysteroid Dehydrogenase Type 1 Inhibitors [MoA],CAT003,Cardiovascular
+Acetylcholine Release Inhibitor [EPC],CAT003,Cardiovascular
+Adrenergic beta2-Agonists [MoA],CAT003,Cardiovascular
+Adrenergic beta3-Agonists [MoA],CAT003,Cardiovascular
+Adrenergic beta-Agonists [MoA],CAT003,Cardiovascular
+Acetyl Aldehyde Dehydrogenase Inhibitors [MoA],CAT003,Cardiovascular
+Adrenergic beta-Antagonists [MoA],CAT003,Cardiovascular
+Adrenergic beta1-Antagonists [MoA],CAT003,Cardiovascular
+HMG-CoA Reductase Inhibitor [EPC],CAT003,Cardiovascular
+Skin Barrier Activity [PE],CAT004,Dermatology
+Epidermal Growth Factor Receptor Antagonist [EPC],CAT004,Dermatology
+Insulin-like Growth Factor-1 Receptor Inhibitor [EPC],CAT005,Diabetes
+Insulin [CS],CAT005,Diabetes
+Insulin Analog [EPC],CAT005,Diabetes
+Antihypoglycemic Agent [EPC],CAT005,Diabetes
+GLP-1 Receptor Agonist [EPC],CAT005,Diabetes
+Intestinal Lipase Inhibitor [EPC],CAT006,Gastrointestinal
+Inhibition Gastric Acid Secretion [PE],CAT006,Gastrointestinal
+Proton Pump Inhibitor [EPC],CAT006,Gastrointestinal
+Increased Large Intestinal Motility [PE],CAT006,Gastrointestinal
+Antiparasitic [EPC],CAT007,Infectious Diseases
+Allylamine Antifungal [EPC],CAT007,Infectious Diseases
+Echinocandin Antifungal [EPC],CAT007,Infectious Diseases
+Nucleoside Analog Antifungal [EPC],CAT007,Infectious Diseases
+Lipid-based Polyene Antifungal [EPC],CAT007,Infectious Diseases
+Nucleoside Analog Antiviral [EPC],CAT007,Infectious Diseases
+Azole Antifungal [EPC],CAT007,Infectious Diseases
+Polyene Antifungal [EPC],CAT007,Infectious Diseases
+Benzylamine Antifungal [EPC],CAT007,Infectious Diseases
+Decreased Central Nervous System Disorganized Electrical Activity [PE],CAT008,Neurology
+Central Nervous System Stimulation [PE],CAT008,Neurology
+Central Nervous System Stimulant [EPC],CAT008,Neurology
+Depolarizing Neuromuscular Blocker [EPC],CAT008,Neurology
+Central Nervous System Depression [PE],CAT008,Neurology
+Central Nervous System Depressant [EPC],CAT008,Neurology
+Dopamine Agonists [MoA],CAT008,Neurology
+Dopamine D2 Antagonists [MoA],CAT008,Neurology
+Anti-epileptic Agent [EPC],CAT008,Neurology
+Neuromuscular Nondepolarizing Blockade [PE],CAT008,Neurology
+Serotonin 1b Receptor Agonists [MoA],CAT008,Neurology
+Serotonin 3 Receptor Antagonists [MoA],CAT008,Neurology
+Serotonin 4 Receptor Agonists [MoA],CAT008,Neurology
+Serotonin Reuptake Inhibitor [EPC],CAT008,Neurology
+Dopamine Uptake Inhibitors [MoA],CAT008,Neurology
+Neurokinin 3 Receptor Antagonist [EPC],CAT008,Neurology
+Breast Cancer Resistance Protein Inhibitors [MoA],CAT009,Oncology
+Tumor Necrosis Factor Blocker [EPC],CAT009,Oncology
+Increased Diuresis [PE],CAT013,Others
+Lipoglycopeptide Antibacterial [EPC],CAT013,Others
+Human Platelet-derived Growth Factor [EPC],CAT013,Others
+Lipid Emulsion [EPC],CAT013,Others
+Human Serum Albumin [EPC],CAT013,Others
+Hematopoietic Stem Cell Mobilizer [EPC],CAT013,Others
+Hydrolytic Lysosomal Cholesteryl Ester-specific Enzyme [EPC],CAT013,Others
+Lead Chelating Activity [MoA],CAT013,Others
+Kinase Inhibitor [EPC],CAT013,Others
+Kallikrein Inhibitors [MoA],CAT013,Others
+Janus Kinase Inhibitor [EPC],CAT013,Others
+Isocitrate Dehydrogenase 2 Inhibitor [EPC],CAT013,Others
+Iron [CS],CAT013,Others
+Iron Chelating Activity [MoA],CAT013,Others
+Hydrolytic Lysosomal Glucocerebroside-specific Enzyme [EPC],CAT013,Others
+Interleukin-6 Antagonist [EPC],CAT013,Others
+Interleukin-5 Antagonist [EPC],CAT013,Others
+Interleukin-36 Receptor Antagonist [EPC],CAT013,Others
+Lipopeptide Antibacterial [EPC],CAT013,Others
+Local Anesthesia [PE],CAT013,Others
+Lymphocyte Activation Gene-3 Antagonists [MoA],CAT013,Others
+Human Immunoglobulin [EPC],CAT013,Others
+Menin Inhibitor [EPC],CAT013,Others
+Melatonin Receptor Agonist [EPC],CAT013,Others
+Melanocortin Receptor Agonist [EPC],CAT013,Others
+Melanocortin 4 Receptor Agonist [EPC],CAT013,Others
+Glycolipid Disialoganglioside-directed Antibody Interactions [MoA],CAT013,Others
+Medium-chain Triglyceride [EPC],CAT013,Others
+Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor [EPC],CAT013,Others
+Heparin Binding Activity [MoA],CAT013,Others
+Interleukin-31 Receptor alpha Antagonist [EPC],CAT013,Others
+Heparin,CAT013,Others
+Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor [EPC],CAT013,Others
+Magnetic Resonance Contrast Activity [MoA],CAT013,Others
+Glycopeptide Antibacterial [EPC],CAT013,Others
+Glycosaminoglycan [EPC],CAT013,Others
+Gonadotropin Releasing Hormone Receptor Agonist [EPC],CAT013,Others
+Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor [EPC],CAT013,Others
+Human Immunoglobulin G [EPC],CAT013,Others
+Lymphocyte Function-Associated Antigen-1 Antagonist [EPC],CAT013,Others
+Human Growth Hormone [CS],CAT013,Others
+Interleukin-23 Antagonist [EPC],CAT013,Others
+Interleukin-17A Antagonist [EPC],CAT013,Others
+Gonadotropin [EPC],CAT013,Others
+Inhibit Ovum Fertilization [PE],CAT013,Others
+Imidazolines [CS],CAT013,Others
+Inhalation Diagnostic Agent [EPC],CAT013,Others
+Influenza A M2 Protein Inhibitor [EPC],CAT013,Others
+Guanylate Cyclase Activators [MoA],CAT013,Others
+Increased Uterine Smooth Muscle Contraction or Tone [PE],CAT013,Others
+Guanylate Cyclase Stimulators [MoA],CAT013,Others
+Increased Prothrombin Activity [PE],CAT013,Others
+Hepatitis C Virus Nucleotide Analog NS5B Polymerase Inhibitor [EPC],CAT013,Others
+Increased Protein Synthesis [PE],CAT013,Others
+HIV Protease Inhibitors [MoA],CAT013,Others
+Increased Megakaryocyte Maturation [PE],CAT013,Others
+Increased Lymphocyte Activation [PE],CAT013,Others
+HIV Integrase Inhibitors [MoA],CAT013,Others
+HER2/Neu/cerbB2 Antagonists [MoA],CAT013,Others
+Metal Chelating Activity [MoA],CAT013,Others
+Increased Intravascular Volume [PE],CAT013,Others
+Increased Diuresis at Loop of Henle [PE],CAT013,Others
+Increased Prostaglandin Activity [PE],CAT013,Others
+Increased Cytokine Activity [PE],CAT013,Others
+Ileal Bile Acid Transporter Inhibitor [EPC],CAT013,Others
+Hyperpolarized Contrast Agent [EPC],CAT013,Others
+Interleukin-15 Receptor Agonist [EPC],CAT013,Others
+Hydrolytic Lysosomal Glycogen-specific Enzyme [EPC],CAT013,Others
+Interleukin-13 Antagonist [EPC],CAT013,Others
+Interleukin-12 Antagonist [EPC],CAT013,Others
+Interleukin 6 Receptor Antagonists [MoA],CAT013,Others
+Interleukin 5 Receptor alpha-directed Antibody Interactions [MoA],CAT013,Others
+Interleukin 2 Receptor Antagonists [MoA],CAT013,Others
+Interleukin 1 Receptor Antagonists [MoA],CAT013,Others
+Hypoxia-Inducible Factor Prolyl Hydroxylase Inhibitors [MoA],CAT013,Others
+Interferon gamma [EPC],CAT013,Others
+Granulocyte Colony-Stimulating Factor [CS],CAT013,Others
+Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme [EPC],CAT013,Others
+Interferon alpha [EPC],CAT013,Others
+Interferon alfa-2b [CS],CAT013,Others
+Integrin Receptor Antagonist [EPC],CAT013,Others
+Hydrolytic Lysosomal Neutral Glycosphingolipid-specific Enzyme [EPC],CAT013,Others
+Hedgehog Pathway Inhibitor [EPC],CAT013,Others
+Hyperpolarization-activated Cyclic Nucleotide-gated Channel Antagonists [MoA],CAT013,Others
+Interferon gamma Antagonists [MoA],CAT013,Others
+Growth Hormone Secretagogue Receptor Agonist [EPC],CAT013,Others
+Norepinephrine Reuptake Inhibitor [EPC],CAT013,Others
+Methyltransferase Inhibitor [EPC],CAT013,Others
+Tetracycline-class Antimicrobial [EPC],CAT013,Others
+Tetracycline-class Antibacterial [EPC],CAT013,Others
+Sulfonylurea Compounds [CS],CAT013,Others
+Sulfone [EPC],CAT013,Others
+Sucrose-specific Enzyme [EPC],CAT013,Others
+Sphingosine 1-Phosphate Receptor Modulators [MoA],CAT013,Others
+Sodium-Glucose Cotransporter 2 Inhibitor [EPC],CAT013,Others
+Sigma-1 Agonist [EPC],CAT013,Others
+Semifluorinated Alkane [EPC],CAT013,Others
+Sclerosing Activity [MoA],CAT013,Others
+SARS-CoV-2 Nucleotide Analog RNA Polymerase Inhibitor [EPC],CAT013,Others
+Rifamycin Antimycobacterial [EPC],CAT013,Others
+Rifamycin Antibacterial [EPC],CAT013,Others
+Rho Kinase Inhibitor [EPC],CAT013,Others
+Retinoid [EPC],CAT013,Others
+Renin Inhibitor [EPC],CAT013,Others
+Radioligand Activity [MoA],CAT013,Others
+Radiographic Contrast Agent [EPC],CAT013,Others
+Radioactive alpha-Particle Emitting Therapeutic Agent [EPC],CAT013,Others
+Radioactive Therapeutic Agent [EPC],CAT013,Others
+Radioactive Diagnostic Agent [EPC],CAT013,Others
+RNA Synthetase Inhibitor Antibacterial [EPC],CAT013,Others
+RANK Ligand Blocking Activity [MoA],CAT013,Others
+Pyridone [EPC],CAT013,Others
+Pyrethrins [CS],CAT013,Others
+Tetracycline-class Drug [EPC],CAT013,Others
+Thalidomide Analog [EPC],CAT013,Others
+Thymic Stromal Lymphopoietin Blocker [EPC],CAT013,Others
+Thyroid Hormone Synthesis Inhibitor [EPC],CAT013,Others
+Zaire Ebolavirus Glycoprotein-directed Antibody Interactions [MoA],CAT013,Others
+Xanthine Oxidase Inhibitor [EPC],CAT013,Others
+Vitamin K Antagonist [EPC],CAT013,Others
+Vitamin D [CS],CAT013,Others
+Vitamin D Analog [EPC],CAT013,Others
+Vitamin B 12 [CS],CAT013,Others
+Vitamin A [CS],CAT013,Others
+Vinca Alkaloid [EPC],CAT013,Others
+Vesicular Monoamine Transporter 2 Inhibitor [EPC],CAT013,Others
+Vasopressin V2 Receptor Antagonist [EPC],CAT013,Others
+Vasopressin Receptor Agonist [EPC],CAT013,Others
+Vasodilation [PE],CAT013,Others
+Purine Antimetabolite [EPC],CAT013,Others
+Vasoconstriction [PE],CAT013,Others
+VEGFR2 Inhibitors [MoA],CAT013,Others
+Urease Inhibitor [EPC],CAT013,Others
+Urate Oxidase [CS],CAT013,Others
+UNKNOWN,CAT013,Others
+Tyrosine Kinase 2 Inhibitor [EPC],CAT013,Others
+Type I Interferon Receptor Antagonist [EPC],CAT013,Others
+Tryptophan Hydroxylase Inhibitor [EPC],CAT013,Others
+Triiodothyronine [CS],CAT013,Others
+Topoisomerase Inhibitor [EPC],CAT013,Others
+Tissue Factor Pathway Inhibitor Antagonist [EPC],CAT013,Others
+Thyroxine [CS],CAT013,Others
+Thyroid Stimulating Hormone [EPC],CAT013,Others
+Vascular Endothelial Growth Factor Inhibitor [EPC],CAT013,Others
+Methylating Activity [MoA],CAT013,Others
+Proteasome Inhibitor [EPC],CAT013,Others
+Prostaglandin E1 Analog [EPC],CAT013,Others
+P-Glycoprotein Inhibitors [MoA],CAT013,Others
+Oxidation-Reduction Activity [MoA],CAT013,Others
+Oxazolidinone Antibacterial [EPC],CAT013,Others
+Osmotic Activity [MoA],CAT013,Others
+Organic Cation Transporter 2 Inhibitors [MoA],CAT013,Others
+Organic Anion Transporting Polypeptide 2B1 Inhibitors [MoA],CAT013,Others
+Orexin Receptor Antagonist [EPC],CAT013,Others
+Oligonucleotide Telomerase Inhibitor [EPC],CAT013,Others
+Nucleic Acid Synthesis Inhibitors [MoA],CAT013,Others
+Nuclear Export Inhibitor [EPC],CAT013,Others
+Norepinephrine Uptake Inhibitors [MoA],CAT013,Others
+Glucosylceramide Synthase Inhibitor [EPC],CAT013,Others
+Nitroimidazole Antimicrobial [EPC],CAT013,Others
+Nitrofuran Antibacterial [EPC],CAT013,Others
+Nicotinic Acid [EPC],CAT013,Others
+Neuraminidase Inhibitor [EPC],CAT013,Others
+Nerve Growth Factor [CS],CAT013,Others
+Neonatal Fc Receptor Blocker [EPC],CAT013,Others
+N-methyl-D-aspartate Receptor Antagonist [EPC],CAT013,Others
+Mood Stabilizer [EPC],CAT013,Others
+Monobactam Antibacterial [EPC],CAT013,Others
+Monoamine Oxidase Inhibitor [EPC],CAT013,Others
+Mineralocorticoid Receptor Antagonists [MoA],CAT013,Others
+Microtubule Inhibition [PE],CAT013,Others
+Methylxanthine [EPC],CAT013,Others
+P-Selectin Blockers [MoA],CAT013,Others
+PPAR alpha [CS],CAT013,Others
+Parathyroid Hormone Analog [EPC],CAT013,Others
+Parathyroid Hormone-Related Peptide Analog [EPC],CAT013,Others
+Prostaglandin Analog [EPC],CAT013,Others
+Prostacycline [EPC],CAT013,Others
+Prostacyclin Receptor Agonist [EPC],CAT013,Others
+Programmed Death Receptor-1 Blocking Antibody [EPC],CAT013,Others
+Progesterone [CS],CAT013,Others
+Progesterone Congeners [CS],CAT013,Others
+Progesterone Agonist/Antagonist [EPC],CAT013,Others
+Progestational Hormone Receptor Antagonists [MoA],CAT013,Others
+Potassium Channel Antagonists [MoA],CAT013,Others
+Potassium Binder [EPC],CAT013,Others
+Positron Emitting Activity [MoA],CAT013,Others
+Porphyrin Precursor [EPC],CAT013,Others
+Prostaglandin E2 Receptor Agonist [EPC],CAT013,Others
+Polymyxin-class Antibacterial [EPC],CAT013,Others
+Poly(ADP-Ribose) Polymerase Inhibitor [EPC],CAT013,Others
+Platinum-based Drug [EPC],CAT013,Others
+Photoabsorption [MoA],CAT013,Others
+Phosphodiesterase 5 Inhibitor [EPC],CAT013,Others
+Phosphodiesterase 4 Inhibitor [EPC],CAT013,Others
+Phosphodiesterase 3 Inhibitor [EPC],CAT013,Others
+Phosphate Binder [EPC],CAT013,Others
+Phenylalanine Ammonia-Lyase [CS],CAT013,Others
+Phenothiazine [EPC],CAT013,Others
+Peroxisome Proliferator Receptor alpha Agonist [EPC],CAT013,Others
+Pediculicide [EPC],CAT013,Others
+Partial Cholinergic Nicotinic Agonist [EPC],CAT013,Others
+Polyene Antimicrobial [EPC],CAT013,Others
+Glucosylceramidase [CS],CAT013,Others
+Fibric Acids [CS],CAT013,Others
+Genitourinary Arterial Vasodilation [PE],CAT013,Others
+Bispecific gp100 Peptide-HLA-directed CD3 T Cell Engager [EPC],CAT013,Others
+Bispecific CD20-directed CD3 T Cell Engager [EPC],CAT013,Others
+Bismuth [CS],CAT013,Others
+Bile Salt Export Pump Inhibitors [MoA],CAT013,Others
+Bile Acid [EPC],CAT013,Others
+Bile Acid Sequestrant [EPC],CAT013,Others
+Biguanide [EPC],CAT013,Others
+Benzothiazole [EPC],CAT013,Others
+Benzodiazepine [EPC],CAT013,Others
+Benzodiazepine Antagonist [EPC],CAT013,Others
+Bcr-Abl Tyrosine Kinase Inhibitors [MoA],CAT013,Others
+Barbiturate [EPC],CAT013,Others
+Bisphosphonate [EPC],CAT013,Others
+BCL-2 Inhibitor [EPC],CAT013,Others
+Autonomic Ganglionic Blocker [EPC],CAT013,Others
+Asparaginase [CS],CAT013,Others
+Ascorbic Acid [CS],CAT013,Others
+Aryl Hydrocarbon Receptor Agonist [EPC],CAT013,Others
+Arteriolar Vasodilation [PE],CAT013,Others
+Aromatase Inhibitor [EPC],CAT013,Others
+Appetite Suppression [PE],CAT013,Others
+Antitoxins [CS],CAT013,Others
+Antithrombin-directed RNA Interaction [EPC],CAT013,Others
+Antisense Oligonucleotide [EPC],CAT013,Others
+Antirheumatic Agent [EPC],CAT013,Others
+Antiprotozoal [EPC],CAT013,Others
+B Lymphocyte Stimulator-directed Antibody Interactions [MoA],CAT013,Others
+Blood Coagulation Factor [EPC],CAT013,Others
+Blood Coagulation Factors [CS],CAT013,Others
+Blood Viscosity Reducer [EPC],CAT013,Others
+Carbonic Anhydrase Inhibitor [EPC],CAT013,Others
+Glinide [EPC],CAT013,Others
+Carbamoyl Phosphate Synthetase 1 Activator [EPC],CAT013,Others
+Cannabinoids [CS],CAT013,Others
+Cannabinoid [EPC],CAT013,Others
+Calculi Dissolution Agent [EPC],CAT013,Others
+Calcium-sensing Receptor Agonist [EPC],CAT013,Others
+Calcium [CS],CAT013,Others
+Calcitonin [CS],CAT013,Others
+Calcitonin Gene-related Peptide Receptor Antagonist [EPC],CAT013,Others
+Calcitonin Gene-related Peptide Antagonist [EPC],CAT013,Others
+Calcineurin Inhibitor Immunosuppressant [EPC],CAT013,Others
+CTLA-4-directed Antibody Interactions [MoA],CAT013,Others
+CD80-directed Antibody Interactions [MoA],CAT013,Others
+CD52-directed Antibody Interactions [MoA],CAT013,Others
+CD33-directed Antibody Interactions [MoA],CAT013,Others
+CD30-directed Antibody Interactions [MoA],CAT013,Others
+CD3-directed Antibody Interactions [MoA],CAT013,Others
+CD25-directed Cytotoxin [EPC],CAT013,Others
+CD22-directed Antibody Interactions [MoA],CAT013,Others
+CD20-directed Antibody Interactions [MoA],CAT013,Others
+CD19-directed Antibody Interactions [MoA],CAT013,Others
+CD123 Interaction [EPC],CAT013,Others
+CCR5 Co-receptor Antagonist [EPC],CAT013,Others
+Bruton's Tyrosine Kinase Inhibitors [MoA],CAT013,Others
+Bradykinin B2 Receptor Antagonist [EPC],CAT013,Others
+Boron Compounds [CS],CAT013,Others
+Antimycobacterial [EPC],CAT013,Others
+Carboxypeptidase [EPC],CAT013,Others
+Antimetabolite [EPC],CAT013,Others
+Antimalarial [EPC],CAT013,Others
+Amide Local Anesthetic [EPC],CAT013,Others
+Aluminum Complex [EPC],CAT013,Others
+Allogeneic Cultured Cell Scaffold [EPC],CAT013,Others
+Alkylating Activity [MoA],CAT013,Others
+Alkaloid [EPC],CAT013,Others
+Alkalinizing Activity [MoA],CAT013,Others
+Alkaline Phosphatase [CS],CAT013,Others
+Aldosterone Antagonist [EPC],CAT013,Others
+Adrenocorticotropic Hormone [CS],CAT013,Others
+Adrenergic alpha2-Agonists [MoA],CAT013,Others
+Adrenergic alpha1-Agonists [MoA],CAT013,Others
+Adrenergic alpha-Antagonists [MoA],CAT013,Others
+Amino Acid [EPC],CAT013,Others
+Adrenergic alpha-Agonists [MoA],CAT013,Others
+Adrenal Steroid Synthesis Inhibitor [EPC],CAT013,Others
+Adenosine Triphosphate-Citrate Lyase Inhibitor [EPC],CAT013,Others
+Adenosine Receptor Agonists [MoA],CAT013,Others
+Adenosine Receptor Agonist [EPC],CAT013,Others
+Actively Acquired Immunity [PE],CAT013,Others
+Actinomycin [EPC],CAT013,Others
+Acidifying Activity [MoA],CAT013,Others
+APOC-III-directed RNA Interaction [EPC],CAT013,Others
+AMPA Receptor Antagonists [MoA],CAT013,Others
+5-alpha Reductase Inhibitor [EPC],CAT013,Others
+5-Lipoxygenase Inhibitor [EPC],CAT013,Others
+4-Hydroxyphenyl-Pyruvate Dioxygenase Inhibitor [EPC],CAT013,Others
+Adrenergic Agonists [MoA],CAT013,Others
+Amino Acids,CAT013,Others
+Aminoglycoside Antibacterial [EPC],CAT013,Others
+Aminoketone [EPC],CAT013,Others
+Antileishmanial [EPC],CAT013,Others
+Antigens,CAT013,Others
+Antigen Neutralization [MoA],CAT013,Others
+Antifibrinolytic Agent [EPC],CAT013,Others
+Antiemetic [EPC],CAT013,Others
+Antidote [EPC],CAT013,Others
+Antidiarrheal [EPC],CAT013,Others
+Anticholinergic [EPC],CAT013,Others
+Antibodies [CS],CAT013,Others
+Antibodies,CAT013,Others
+Antiarrhythmic [EPC],CAT013,Others
+Anti-coagulant [EPC],CAT013,Others
+Anti-anginal [EPC],CAT013,Others
+Anti-IgE [EPC],CAT013,Others
+Anthrax Protective Antigen-directed Antibody Interactions [MoA],CAT013,Others
+Anthracycline Topoisomerase Inhibitor [EPC],CAT013,Others
+Anthelmintic [EPC],CAT013,Others
+Angiopoietin-like 3 Inhibitor [EPC],CAT013,Others
+Androgen Receptor Antagonists [MoA],CAT013,Others
+Androgen Receptor Agonists [MoA],CAT013,Others
+Analogs/Derivatives [Chemical/Ingredient],CAT013,Others
+Amylin Agonists [MoA],CAT013,Others
+Amphetamine Anorectic [EPC],CAT013,Others
+Amphenicol-class Antibacterial [EPC],CAT013,Others
+Ammonium Ion Binding Activity [MoA],CAT013,Others
+Aminosalicylate [EPC],CAT013,Others
+Aminolevulinate Synthase 1-directed RNA Interaction [EPC],CAT013,Others
+Antimetabolite Immunosuppressant [EPC],CAT013,Others
+Cardiac Glycoside [EPC],CAT013,Others
+Carbapenems [CS],CAT013,Others
+Carnitine Analog [EPC],CAT013,Others
+Direct Thrombin Inhibitor [EPC],CAT013,Others
+Dipeptidyl Peptidase 4 Inhibitor [EPC],CAT013,Others
+Dihydroorotate Dehydrogenase Inhibitors [MoA],CAT013,Others
+Dihydrofolate Reductase Inhibitor Antimalarial [EPC],CAT013,Others
+Diarylquinoline Antimycobacterial [EPC],CAT013,Others
+Diagnostic Dye [EPC],CAT013,Others
+Depigmenting Activity [PE],CAT013,Others
+Decreased Tracheobronchial Stretch Receptor Activity [PE],CAT013,Others
+Decreased Striated Muscle Contraction [PE],CAT013,Others
+Decreased Renal K+ Excretion [PE],CAT013,Others
+Decreased RNA Integrity [PE],CAT013,Others
+Decreased Prothrombin Activity [PE],CAT013,Others
+Decreased Protein Synthesis [PE],CAT013,Others
+Decreased Platelet Production [PE],CAT013,Others
+Decreased Platelet Aggregation [PE],CAT013,Others
+Decreased Mitosis [PE],CAT013,Others
+Decreased Immunologically Active Molecule Activity [PE],CAT013,Others
+Decreased Immunologic Activity [PE],CAT013,Others
+Decreased GnRH Secretion [PE],CAT013,Others
+Decreased Diuresis [PE],CAT013,Others
+Decreased DNA Replication [PE],CAT013,Others
+Decreased Cytokine Activity [PE],CAT013,Others
+Decreased Cell Wall Synthesis & Repair [PE],CAT013,Others
+Decreased Cell Wall Integrity [PE],CAT013,Others
+DNA Polymerase Inhibitors [MoA],CAT013,Others
+Cytoprotective Agent [EPC],CAT013,Others
+Cardiac Myosin Inhibitor [EPC],CAT013,Others
+Disclosing Agent [EPC],CAT013,Others
+Cytolytic Agent [EPC],CAT013,Others
+Ectoparasiticide [EPC],CAT013,Others
+Endothelin Receptor Antagonist [EPC],CAT013,Others
+General Anesthesia [PE],CAT013,Others
+Gadolinium-based Contrast Agent [EPC],CAT013,Others
+GABA A Receptor Positive Modulators [MoA],CAT013,Others
+GABA A Agonists [MoA],CAT013,Others
+G-Protein-linked Receptor Interactions [MoA],CAT013,Others
+Fusion Protein Inhibitors [MoA],CAT013,Others
+Folate Analog [EPC],CAT013,Others
+Folate Analog Metabolic Inhibitor [EPC],CAT013,Others
+Fluorescence Contrast Activity [MoA],CAT013,Others
+Fibroblast Growth Factor 7 [CS],CAT013,Others
+alpha Glucosidase Inhibitors [MoA],CAT013,Others
+Fatty Acids,CAT013,Others
+Factor Xa Inhibitor [EPC],CAT013,Others
+Factor VIII Activator [EPC],CAT013,Others
+FMS-like Receptor Tyrosine Kinase 3 (FLT3) Inhibitors [MoA],CAT013,Others
+Estrogen Receptor Antagonist [EPC],CAT013,Others
+Estrogen Receptor Agonists [MoA],CAT013,Others
+Estrogen Agonist/Antagonist [EPC],CAT013,Others
+Estradiol Congeners [CS],CAT013,Others
+Ester Local Anesthetic [EPC],CAT013,Others
+Erythropoiesis-stimulating Agent [EPC],CAT013,Others
+Erythroid Maturation Agent [EPC],CAT013,Others
+Ergotamine Derivative [EPC],CAT013,Others
+Ergolines [CS],CAT013,Others
+Ergocalciferols [CS],CAT013,Others
+Epoxide Hydrolase Inhibitors [MoA],CAT013,Others
+Enzyme Stabilizer [EPC],CAT013,Others
+Endoglycosidase [EPC],CAT013,Others
+Cytochrome P450 3A4 Inhibitors [MoA],CAT013,Others
+Cytomegalovirus Nucleoside Analog DNA Polymerase Inhibitor [EPC],CAT013,Others
+Cytochrome P450 3A Inhibitors [MoA],CAT013,Others
+Complement Factor B Inhibitor [EPC],CAT013,Others
+Cytochrome P450 3A4 Inducers [MoA],CAT013,Others
+Complement 5a Receptor Antagonist [EPC],CAT013,Others
+Colony-Stimulating Factors [CS],CAT013,Others
+Colony Stimulating Factor Receptor Type 1 (CSF-1R) Inhibitors [MoA],CAT013,Others
+Collagen-specific Enzyme [EPC],CAT013,Others
+Claudin 18.2-directed Antibody Interactions [MoA],CAT013,Others
+Classical Complement Pathway Inhibitor [EPC],CAT013,Others
+Cholinesterase Reactivator [EPC],CAT013,Others
+Cholinesterase Inhibitors [MoA],CAT013,Others
+Cholinesterase Inhibitor [EPC],CAT013,Others
+Cholinergic Nicotinic Agonist [EPC],CAT013,Others
+Complement Inhibitor [EPC],CAT013,Others
+Cholinergic Muscarinic Antagonist [EPC],CAT013,Others
+Cholinergic Muscarinic Agonist [EPC],CAT013,Others
+Cholinergic Agonists [MoA],CAT013,Others
+Cholecystokinin Analog [EPC],CAT013,Others
+Cholecalciferol [CS],CAT013,Others
+Chloride Channel Activator [EPC],CAT013,Others
+Chloride Channel Activation Potentiators [MoA],CAT013,Others
+Chelating Activity [MoA],CAT013,Others
+Centrally-mediated Muscle Relaxation [PE],CAT013,Others
+Catecholamines [CS],CAT013,Others
+Catecholamine [EPC],CAT013,Others
+Catecholamine Synthesis Inhibitor [EPC],CAT013,Others
+Catechol O-Methyltransferase Inhibitors [MoA],CAT013,Others
+Cholinergic Muscarinic Agonists [MoA],CAT013,Others
+Contrast Agent for Ultrasound Imaging [EPC],CAT013,Others
+Complement C5 Inhibitor [EPC],CAT013,Others
+Cytochrome P450 1A1 Inhibitors [MoA],CAT013,Others
+Cytochrome P450 3A Inducers [MoA],CAT013,Others
+Cytochrome P450 2D6 Inhibitors [MoA],CAT013,Others
+Cytochrome P450 2C9 Inhibitors [MoA],CAT013,Others
+Cytochrome P450 2C9 Inducers [MoA],CAT013,Others
+Cytochrome P450 2C8 Inhibitors [MoA],CAT013,Others
+Cytochrome P450 2C8 Inducers [MoA],CAT013,Others
+Cytochrome P450 2C19 Inhibitors [MoA],CAT013,Others
+Cytochrome P450 2C19 Inducers [MoA],CAT013,Others
+Cytochrome P450 2B6 Inhibitors [MoA],CAT013,Others
+Cytochrome P450 2B6 Inducers [MoA],CAT013,Others
+Cytochrome P450 1A2 Inhibitors [MoA],CAT013,Others
+Cytochrome P450 1A2 Inducers [MoA],CAT013,Others
+Copper Absorption Inhibitor [EPC],CAT013,Others
+Cytochrome P450 17A1 Inhibitor [EPC],CAT013,Others
+gamma-Cyclodextrins [CS],CAT013,Others
+Cyclic Pyranopterin Monophosphate [EPC],CAT013,Others
+Corticosteroid Hormone Receptor Agonists [MoA],CAT013,Others
+Cortisol Synthesis Inhibitor [EPC],CAT013,Others
+Cystine Disulfide Reduction [MoA],CAT013,Others
+Cyclin-dependent Kinase 4 Inhibitors [MoA],CAT013,Others
+Copper [CS],CAT013,Others
+Cystine Depleting Agent [EPC],CAT013,Others
+Copper Chelating Activity [MoA],CAT013,Others
+Opioid Antagonist [EPC],CAT010,Pain Management
+Opioid Agonist [EPC],CAT010,Pain Management
+Kappa Opioid Receptor Agonist [EPC],CAT010,Pain Management
+Anti-Inflammatory Agents,CAT010,Pain Management
+Full Opioid Agonists [MoA],CAT010,Pain Management
+Partial Opioid Agonist [EPC],CAT010,Pain Management
+Competitive Opioid Antagonists [MoA],CAT010,Pain Management
+Opioid mu-Receptor Agonists [MoA],CAT010,Pain Management
+Tricyclic Antidepressant [EPC],CAT011,Psychiatry
+Atypical Antipsychotic [EPC],CAT011,Psychiatry
+Typical Antipsychotic [EPC],CAT011,Psychiatry
+Decreased Respiratory Secretion Viscosity [PE],CAT012,Respiratory
+Increased Medullary Respiratory Drive [PE],CAT012,Respiratory
+Leukotriene Receptor Antagonist [EPC],CAT012,Respiratory

@@ -1,0 +1,536 @@
+﻿Pharm_Class,Category_ID,Category_Name
+11-beta Hydroxysteroid Dehydrogenase Type 1 Inhibitors [MoA],CAT009,Hormonal
+4-Hydroxyphenyl-Pyruvate Dioxygenase Inhibitor [EPC],CAT014,Medical Devices / Misc
+5-Lipoxygenase Inhibitor [EPC],CAT004,Pain & Inflammation
+5-alpha Reductase Inhibitor [EPC],CAT009,Hormonal
+AMPA Receptor Antagonists [MoA],CAT005,Neurology & Psychiatry
+APOC-III-directed RNA Interaction [EPC],CAT003,Cardiovascular
+Acetyl Aldehyde Dehydrogenase Inhibitors [MoA],CAT014,Medical Devices / Misc
+Acetylcholine Release Inhibitor [EPC],CAT005,Neurology & Psychiatry
+Acidifying Activity [MoA],CAT014,Medical Devices / Misc
+Actinomycin [EPC],CAT012,Oncology
+Actively Acquired Immunity [PE],CAT010,Vaccines & Biologics
+Adenosine Receptor Agonist [EPC],CAT003,Cardiovascular
+Adenosine Receptor Agonists [MoA],CAT003,Cardiovascular
+Adenosine Triphosphate-Citrate Lyase Inhibitor [EPC],CAT003,Cardiovascular
+Adrenal Steroid Synthesis Inhibitor [EPC],CAT009,Hormonal
+Adrenergic Agonists [MoA],CAT003,Cardiovascular
+Adrenergic alpha-Agonists [MoA],CAT003,Cardiovascular
+Adrenergic alpha-Antagonists [MoA],CAT003,Cardiovascular
+Adrenergic alpha1-Agonists [MoA],CAT003,Cardiovascular
+Adrenergic alpha2-Agonists [MoA],CAT003,Cardiovascular
+Adrenergic beta-Agonists [MoA],CAT003,Cardiovascular
+Adrenergic beta-Antagonists [MoA],CAT003,Cardiovascular
+Adrenergic beta1-Antagonists [MoA],CAT003,Cardiovascular
+Adrenergic beta2-Agonists [MoA],CAT003,Cardiovascular
+Adrenergic beta3-Agonists [MoA],CAT003,Cardiovascular
+Adrenocorticotropic Hormone [CS],CAT009,Hormonal
+Aldosterone Antagonist [EPC],CAT003,Cardiovascular
+Alkaline Phosphatase [CS],CAT014,Medical Devices / Misc
+Alkalinizing Activity [MoA],CAT014,Medical Devices / Misc
+Alkaloid [EPC],CAT012,Oncology
+Alkylating Activity [MoA],CAT012,Oncology
+Allergens [CS],CAT006,Allergy & Respiratory
+Allogeneic Cultured Cell Scaffold [EPC],CAT014,Medical Devices / Misc
+Allylamine Antifungal [EPC],CAT001,Antibiotics
+Aluminum Complex [EPC],CAT014,Medical Devices / Misc
+Alveolar Surface Tension Reduction [PE],CAT006,Allergy & Respiratory
+Amide Local Anesthetic [EPC],CAT004,Pain & Inflammation
+Amino Acid [EPC],CAT013,Supplements
+Amino Acids,CAT013,Supplements
+Aminoglycoside Antibacterial [EPC],CAT001,Antibiotics
+Aminoketone [EPC],CAT005,Neurology & Psychiatry
+Aminolevulinate Synthase 1-directed RNA Interaction [EPC],CAT012,Oncology
+Aminosalicylate [EPC],CAT007,Gastrointestinal
+Ammonium Ion Binding Activity [MoA],CAT014,Medical Devices / Misc
+Amphenicol-class Antibacterial [EPC],CAT001,Antibiotics
+Amphetamine Anorectic [EPC],CAT005,Neurology & Psychiatry
+Amylin Agonists [MoA],CAT002,Antidiabetic
+Amyloid Beta-directed Antibody Interactions [MoA],CAT005,Neurology & Psychiatry
+Analogs/Derivatives [Chemical/Ingredient],CAT014,Medical Devices / Misc
+Androgen Receptor Agonists [MoA],CAT009,Hormonal
+Androgen Receptor Antagonists [MoA],CAT009,Hormonal
+Angiopoietin-like 3 Inhibitor [EPC],CAT003,Cardiovascular
+Angiotensin 2 Receptor Antagonists [MoA],CAT003,Cardiovascular
+Angiotensin 2 Receptor Blocker [EPC],CAT003,Cardiovascular
+Angiotensin Converting Enzyme Inhibitor [EPC],CAT003,Cardiovascular
+Anthelmintic [EPC],CAT001,Antibiotics
+Anthracycline Topoisomerase Inhibitor [EPC],CAT012,Oncology
+Anthrax Protective Antigen-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+Anti-IgE [EPC],CAT010,Vaccines & Biologics
+Anti-Inflammatory Agents,CAT004,Pain & Inflammation
+Anti-anginal [EPC],CAT003,Cardiovascular
+Anti-coagulant [EPC],CAT003,Cardiovascular
+Anti-epileptic Agent [EPC],CAT005,Neurology & Psychiatry
+Antiarrhythmic [EPC],CAT003,Cardiovascular
+Antibodies,CAT010,Vaccines & Biologics
+Antibodies [CS],CAT010,Vaccines & Biologics
+Antibody-Surface Protein Interactions [MoA],CAT010,Vaccines & Biologics
+Anticholinergic [EPC],CAT005,Neurology & Psychiatry
+Antidiarrheal [EPC],CAT007,Gastrointestinal
+Antidote [EPC],CAT014,Medical Devices / Misc
+Antiemetic [EPC],CAT007,Gastrointestinal
+Antifibrinolytic Agent [EPC],CAT003,Cardiovascular
+Antigen Neutralization [MoA],CAT010,Vaccines & Biologics
+Antigens,CAT010,Vaccines & Biologics
+Antihistamine [EPC],CAT006,Allergy & Respiratory
+Antihypoglycemic Agent [EPC],CAT002,Antidiabetic
+Antileishmanial [EPC],CAT001,Antibiotics
+Antimalarial [EPC],CAT001,Antibiotics
+Antimetabolite Immunosuppressant [EPC],CAT012,Oncology
+Antimetabolite [EPC],CAT012,Oncology
+Antimycobacterial [EPC],CAT001,Antibiotics
+Antiparasitic [EPC],CAT001,Antibiotics
+Antiprotozoal [EPC],CAT001,Antibiotics
+Antirheumatic Agent [EPC],CAT004,Pain & Inflammation
+Antisense Oligonucleotide [EPC],CAT010,Vaccines & Biologics
+Antithrombin-directed RNA Interaction [EPC],CAT003,Cardiovascular
+Antitoxins [CS],CAT010,Vaccines & Biologics
+Appetite Suppression [PE],CAT005,Neurology & Psychiatry
+Aromatase Inhibitor [EPC],CAT009,Hormonal
+Arteriolar Vasodilation [PE],CAT003,Cardiovascular
+Aryl Hydrocarbon Receptor Agonist [EPC],CAT014,Medical Devices / Misc
+Ascorbic Acid [CS],CAT013,Supplements
+Asparaginase [CS],CAT012,Oncology
+Atypical Antipsychotic [EPC],CAT005,Neurology & Psychiatry
+Autonomic Ganglionic Blocker [EPC],CAT005,Neurology & Psychiatry
+Azole Antifungal [EPC],CAT001,Antibiotics
+B Lymphocyte Stimulator-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+BCL-2 Inhibitor [EPC],CAT012,Oncology
+Barbiturate [EPC],CAT005,Neurology & Psychiatry
+Bcr-Abl Tyrosine Kinase Inhibitors [MoA],CAT012,Oncology
+Benzodiazepine Antagonist [EPC],CAT005,Neurology & Psychiatry
+Benzodiazepine [EPC],CAT005,Neurology & Psychiatry
+Benzothiazole [EPC],CAT014,Medical Devices / Misc
+Benzylamine Antifungal [EPC],CAT001,Antibiotics
+Biguanide [EPC],CAT002,Antidiabetic
+Bile Acid Sequestrant [EPC],CAT007,Gastrointestinal
+Bile Acid [EPC],CAT007,Gastrointestinal
+Bile Salt Export Pump Inhibitors [MoA],CAT007,Gastrointestinal
+Bismuth [CS],CAT007,Gastrointestinal
+Bispecific CD20-directed CD3 T Cell Engager [EPC],CAT012,Oncology
+Bispecific gp100 Peptide-HLA-directed CD3 T Cell Engager [EPC],CAT012,Oncology
+Bisphosphonate [EPC],CAT009,Hormonal
+Blood Coagulation Factor [EPC],CAT003,Cardiovascular
+Blood Coagulation Factors [CS],CAT003,Cardiovascular
+Blood Viscosity Reducer [EPC],CAT003,Cardiovascular
+Boron Compounds [CS],CAT014,Medical Devices / Misc
+Bradykinin B2 Receptor Antagonist [EPC],CAT003,Cardiovascular
+Breast Cancer Resistance Protein Inhibitors [MoA],CAT012,Oncology
+Bruton's Tyrosine Kinase Inhibitors [MoA],CAT012,Oncology
+CCR5 Co-receptor Antagonist [EPC],CAT001,Antibiotics
+CD123 Interaction [EPC],CAT012,Oncology
+CD19-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+CD20-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+CD22-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+CD25-directed Cytotoxin [EPC],CAT012,Oncology
+CD3-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+CD30-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+CD33-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+CD52-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+CD80-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+CTLA-4-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+Calcineurin Inhibitor Immunosuppressant [EPC],CAT010,Vaccines & Biologics
+Calcitonin Gene-related Peptide Antagonist [EPC],CAT009,Hormonal
+Calcitonin Gene-related Peptide Receptor Antagonist [EPC],CAT009,Hormonal
+Calcitonin [CS],CAT009,Hormonal
+Calcium Channel Antagonists [MoA],CAT003,Cardiovascular
+Calcium [CS],CAT013,Supplements
+Calcium-sensing Receptor Agonist [EPC],CAT013,Supplements
+Calculi Dissolution Agent [EPC],CAT007,Gastrointestinal
+Cannabinoid [EPC],CAT004,Pain & Inflammation
+Cannabinoids [CS],CAT004,Pain & Inflammation
+Carbamoyl Phosphate Synthetase 1 Activator [EPC],CAT014,Medical Devices / Misc
+Carbapenems [CS],CAT001,Antibiotics
+Carbonic Anhydrase Inhibitor [EPC],CAT003,Cardiovascular
+Carboxypeptidase [EPC],CAT014,Medical Devices / Misc
+Cardiac Glycoside [EPC],CAT003,Cardiovascular
+Cardiac Myosin Inhibitor [EPC],CAT003,Cardiovascular
+Carnitine Analog [EPC],CAT013,Supplements
+Catechol O-Methyltransferase Inhibitors [MoA],CAT005,Neurology & Psychiatry
+Catecholamine Synthesis Inhibitor [EPC],CAT005,Neurology & Psychiatry
+Catecholamine [EPC],CAT005,Neurology & Psychiatry
+Catecholamines [CS],CAT005,Neurology & Psychiatry
+Central Nervous System Depressant [EPC],CAT005,Neurology & Psychiatry
+Central Nervous System Depression [PE],CAT005,Neurology & Psychiatry
+Central Nervous System Stimulant [EPC],CAT005,Neurology & Psychiatry
+Central Nervous System Stimulation [PE],CAT005,Neurology & Psychiatry
+Centrally-mediated Muscle Relaxation [PE],CAT005,Neurology & Psychiatry
+Cephalosporin Antibacterial [EPC],CAT001,Antibiotics
+Chelating Activity [MoA],CAT014,Medical Devices / Misc
+Chloride Channel Activation Potentiators [MoA],CAT006,Allergy & Respiratory
+Chloride Channel Activator [EPC],CAT006,Allergy & Respiratory
+Cholecalciferol [CS],CAT013,Supplements
+Cholecystokinin Analog [EPC],CAT007,Gastrointestinal
+Cholinergic Agonists [MoA],CAT005,Neurology & Psychiatry
+Cholinergic Muscarinic Agonist [EPC],CAT005,Neurology & Psychiatry
+Cholinergic Muscarinic Agonists [MoA],CAT005,Neurology & Psychiatry
+Cholinergic Muscarinic Antagonist [EPC],CAT005,Neurology & Psychiatry
+Cholinergic Nicotinic Agonist [EPC],CAT005,Neurology & Psychiatry
+Cholinesterase Inhibitor [EPC],CAT005,Neurology & Psychiatry
+Cholinesterase Inhibitors [MoA],CAT005,Neurology & Psychiatry
+Cholinesterase Reactivator [EPC],CAT005,Neurology & Psychiatry
+Classical Complement Pathway Inhibitor [EPC],CAT010,Vaccines & Biologics
+Claudin 18.2-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+Collagen-specific Enzyme [EPC],CAT014,Medical Devices / Misc
+Colony Stimulating Factor Receptor Type 1 (CSF-1R) Inhibitors [MoA],CAT010,Vaccines & Biologics
+Colony-Stimulating Factors [CS],CAT010,Vaccines & Biologics
+Competitive Opioid Antagonists [MoA],CAT004,Pain & Inflammation
+Complement 5a Receptor Antagonist [EPC],CAT010,Vaccines & Biologics
+Complement C5 Inhibitor [EPC],CAT010,Vaccines & Biologics
+Complement Factor B Inhibitor [EPC],CAT010,Vaccines & Biologics
+Complement Inhibitor [EPC],CAT010,Vaccines & Biologics
+Contrast Agent for Ultrasound Imaging [EPC],CAT014,Medical Devices / Misc
+Copper Absorption Inhibitor [EPC],CAT007,Gastrointestinal
+Copper Chelating Activity [MoA],CAT014,Medical Devices / Misc
+Copper [CS],CAT013,Supplements
+Corticosteroid Hormone Receptor Agonists [MoA],CAT004,Pain & Inflammation
+Cortisol Synthesis Inhibitor [EPC],CAT009,Hormonal
+Cyclic Pyranopterin Monophosphate [EPC],CAT014,Medical Devices / Misc
+Cyclin-dependent Kinase 4 Inhibitors [MoA],CAT012,Oncology
+Cystine Depleting Agent [EPC],CAT014,Medical Devices / Misc
+Cystine Disulfide Reduction [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 17A1 Inhibitor [EPC],CAT014,Medical Devices / Misc
+Cytochrome P450 1A1 Inhibitors [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 1A2 Inducers [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 1A2 Inhibitors [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 2B6 Inducers [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 2B6 Inhibitors [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 2C19 Inducers [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 2C19 Inhibitors [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 2C8 Inducers [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 2C8 Inhibitors [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 2C9 Inducers [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 2C9 Inhibitors [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 2D6 Inhibitors [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 3A Inducers [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 3A Inhibitors [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 3A4 Inducers [MoA],CAT014,Medical Devices / Misc
+Cytochrome P450 3A4 Inhibitors [MoA],CAT014,Medical Devices / Misc
+Cytolytic Agent [EPC],CAT012,Oncology
+Cytomegalovirus Nucleoside Analog DNA Polymerase Inhibitor [EPC],CAT001,Antibiotics
+Cytoprotective Agent [EPC],CAT014,Medical Devices / Misc
+DNA Polymerase Inhibitors [MoA],CAT012,Oncology
+Decreased Cell Wall Integrity [PE],CAT001,Antibiotics
+Decreased Cell Wall Synthesis & Repair [PE],CAT001,Antibiotics
+Decreased Central Nervous System Disorganized Electrical Activity [PE],CAT005,Neurology & Psychiatry
+Decreased Cholesterol Absorption [PE],CAT003,Cardiovascular
+Decreased Cytokine Activity [PE],CAT010,Vaccines & Biologics
+Decreased DNA Replication [PE],CAT012,Oncology
+Decreased Diuresis [PE],CAT003,Cardiovascular
+Decreased GnRH Secretion [PE],CAT009,Hormonal
+Decreased Histamine Release [PE],CAT006,Allergy & Respiratory
+Decreased Immunologic Activity [PE],CAT010,Vaccines & Biologics
+Decreased Immunologically Active Molecule Activity [PE],CAT010,Vaccines & Biologics
+Decreased Mitosis [PE],CAT012,Oncology
+Decreased Platelet Aggregation [PE],CAT003,Cardiovascular
+Decreased Platelet Production [PE],CAT003,Cardiovascular
+Decreased Protein Synthesis [PE],CAT012,Oncology
+Decreased Prothrombin Activity [PE],CAT003,Cardiovascular
+Decreased RNA Integrity [PE],CAT012,Oncology
+Decreased Renal K+ Excretion [PE],CAT003,Cardiovascular
+Decreased Respiratory Secretion Viscosity [PE],CAT006,Allergy & Respiratory
+Decreased Sebaceous Gland Activity [PE],CAT008,Dermatology
+Decreased Striated Muscle Contraction [PE],CAT005,Neurology & Psychiatry
+Decreased Tracheobronchial Stretch Receptor Activity [PE],CAT006,Allergy & Respiratory
+Depigmenting Activity [PE],CAT008,Dermatology
+Depolarizing Neuromuscular Blocker [EPC],CAT005,Neurology & Psychiatry
+Diagnostic Dye [EPC],CAT014,Medical Devices / Misc
+Diarylquinoline Antimycobacterial [EPC],CAT001,Antibiotics
+Dihydrofolate Reductase Inhibitor Antimalarial [EPC],CAT001,Antibiotics
+Dihydroorotate Dehydrogenase Inhibitors [MoA],CAT012,Oncology
+Dipeptidyl Peptidase 4 Inhibitor [EPC],CAT002,Antidiabetic
+Direct Thrombin Inhibitor [EPC],CAT003,Cardiovascular
+Disclosing Agent [EPC],CAT014,Medical Devices / Misc
+Dopamine Agonists [MoA],CAT005,Neurology & Psychiatry
+Dopamine D2 Antagonists [MoA],CAT005,Neurology & Psychiatry
+Dopamine Uptake Inhibitors [MoA],CAT005,Neurology & Psychiatry
+Echinocandin Antifungal [EPC],CAT001,Antibiotics
+Ectoparasiticide [EPC],CAT001,Antibiotics
+Endoglycosidase [EPC],CAT014,Medical Devices / Misc
+Endothelin Receptor Antagonist [EPC],CAT003,Cardiovascular
+Enzyme Stabilizer [EPC],CAT014,Medical Devices / Misc
+Epidermal Growth Factor Receptor Antagonist [EPC],CAT010,Vaccines & Biologics
+Epoxide Hydrolase Inhibitors [MoA],CAT014,Medical Devices / Misc
+Ergocalciferols [CS],CAT013,Supplements
+Ergolines [CS],CAT005,Neurology & Psychiatry
+Ergotamine Derivative [EPC],CAT005,Neurology & Psychiatry
+Erythroid Maturation Agent [EPC],CAT010,Vaccines & Biologics
+Erythropoiesis-stimulating Agent [EPC],CAT010,Vaccines & Biologics
+Ester Local Anesthetic [EPC],CAT004,Pain & Inflammation
+Estradiol Congeners [CS],CAT009,Hormonal
+Estrogen Agonist/Antagonist [EPC],CAT009,Hormonal
+Estrogen Receptor Agonists [MoA],CAT009,Hormonal
+Estrogen Receptor Antagonist [EPC],CAT009,Hormonal
+FMS-like Receptor Tyrosine Kinase 3 (FLT3) Inhibitors [MoA],CAT012,Oncology
+Factor VIII Activator [EPC],CAT003,Cardiovascular
+Factor Xa Inhibitor [EPC],CAT003,Cardiovascular
+Fatty Acids,CAT013,Supplements
+Fibric Acids [CS],CAT003,Cardiovascular
+Fibroblast Growth Factor 7 [CS],CAT010,Vaccines & Biologics
+Fluorescence Contrast Activity [MoA],CAT014,Medical Devices / Misc
+Fluoroquinolone Antibacterial [EPC],CAT001,Antibiotics
+Folate Analog Metabolic Inhibitor [EPC],CAT012,Oncology
+Folate Analog [EPC],CAT012,Oncology
+Full Opioid Agonists [MoA],CAT004,Pain & Inflammation
+Fusion Protein Inhibitors [MoA],CAT010,Vaccines & Biologics
+G-Protein-linked Receptor Interactions [MoA],CAT014,Medical Devices / Misc
+GABA A Agonists [MoA],CAT005,Neurology & Psychiatry
+GABA A Receptor Positive Modulators [MoA],CAT005,Neurology & Psychiatry
+GLP-1 Receptor Agonist [EPC],CAT002,Antidiabetic
+Gadolinium-based Contrast Agent [EPC],CAT014,Medical Devices / Misc
+General Anesthesia [PE],CAT005,Neurology & Psychiatry
+Genitourinary Arterial Vasodilation [PE],CAT003,Cardiovascular
+Glinide [EPC],CAT002,Antidiabetic
+Glucosylceramidase [CS],CAT014,Medical Devices / Misc
+Glucosylceramide Synthase Inhibitor [EPC],CAT014,Medical Devices / Misc
+Glycolipid Disialoganglioside-directed Antibody Interactions [MoA],CAT003,Cardiovascular
+Glycopeptide Antibacterial [EPC],CAT001,Antibiotics
+Glycosaminoglycan [EPC],CAT014,Medical Devices / Misc
+Gonadotropin Releasing Hormone Receptor Agonist [EPC],CAT009,Hormonal
+Gonadotropin [EPC],CAT009,Hormonal
+Granulocyte Colony-Stimulating Factor [CS],CAT010,Vaccines & Biologics
+Growth Hormone Secretagogue Receptor Agonist [EPC],CAT009,Hormonal
+Guanylate Cyclase Activators [MoA],CAT003,Cardiovascular
+Guanylate Cyclase Stimulators [MoA],CAT003,Cardiovascular
+HER2/Neu/cerbB2 Antagonists [MoA],CAT012,Oncology
+HIV Integrase Inhibitors [MoA],CAT001,Antibiotics
+HIV Protease Inhibitors [MoA],CAT001,Antibiotics
+HMG-CoA Reductase Inhibitor [EPC],CAT003,Cardiovascular
+Hedgehog Pathway Inhibitor [EPC],CAT012,Oncology
+Hematopoietic Stem Cell Mobilizer [EPC],CAT010,Vaccines & Biologics
+Heparin,CAT003,Cardiovascular
+Heparin Binding Activity [MoA],CAT003,Cardiovascular
+Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor [EPC],CAT001,Antibiotics
+Hepatitis C Virus Nucleotide Analog NS5B Polymerase Inhibitor [EPC],CAT001,Antibiotics
+Histamine H1 Receptor Antagonists [MoA],CAT006,Allergy & Respiratory
+Histamine H2 Receptor Antagonists [MoA],CAT006,Allergy & Respiratory
+Histamine-1 Receptor Antagonist [EPC],CAT006,Allergy & Respiratory
+Histone Deacetylase Inhibitor [EPC],CAT012,Oncology
+Human Growth Hormone [CS],CAT009,Hormonal
+Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor [EPC],CAT001,Antibiotics
+Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor [EPC],CAT001,Antibiotics
+Human Immunoglobulin G [EPC],CAT010,Vaccines & Biologics
+Human Immunoglobulin [EPC],CAT010,Vaccines & Biologics
+Human Platelet-derived Growth Factor [EPC],CAT010,Vaccines & Biologics
+Human Serum Albumin [EPC],CAT014,Medical Devices / Misc
+Hydrolytic Lysosomal Cholesteryl Ester-specific Enzyme [EPC],CAT014,Medical Devices / Misc
+Hydrolytic Lysosomal Glucocerebroside-specific Enzyme [EPC],CAT014,Medical Devices / Misc
+Hydrolytic Lysosomal Glycogen-specific Enzyme [EPC],CAT014,Medical Devices / Misc
+Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme [EPC],CAT014,Medical Devices / Misc
+Hydrolytic Lysosomal Neutral Glycosphingolipid-specific Enzyme [EPC],CAT003,Cardiovascular
+Hyperpolarization-activated Cyclic Nucleotide-gated Channel Antagonists [MoA],CAT005,Neurology & Psychiatry
+Hyperpolarized Contrast Agent [EPC],CAT014,Medical Devices / Misc
+Hypoxia-Inducible Factor Prolyl Hydroxylase Inhibitors [MoA],CAT014,Medical Devices / Misc
+Ileal Bile Acid Transporter Inhibitor [EPC],CAT007,Gastrointestinal
+Imidazolines [CS],CAT005,Neurology & Psychiatry
+Increased Cytokine Activity [PE],CAT010,Vaccines & Biologics
+Increased Diuresis [PE],CAT003,Cardiovascular
+Increased Diuresis at Loop of Henle [PE],CAT003,Cardiovascular
+Increased Intravascular Volume [PE],CAT003,Cardiovascular
+Increased Large Intestinal Motility [PE],CAT007,Gastrointestinal
+Increased Lymphocyte Activation [PE],CAT010,Vaccines & Biologics
+Increased Medullary Respiratory Drive [PE],CAT006,Allergy & Respiratory
+Increased Megakaryocyte Maturation [PE],CAT010,Vaccines & Biologics
+Increased Prostaglandin Activity [PE],CAT004,Pain & Inflammation
+Increased Protein Synthesis [PE],CAT012,Oncology
+Increased Prothrombin Activity [PE],CAT003,Cardiovascular
+Increased Uterine Smooth Muscle Contraction or Tone [PE],CAT009,Hormonal
+Influenza A M2 Protein Inhibitor [EPC],CAT001,Antibiotics
+Inhalation Diagnostic Agent [EPC],CAT014,Medical Devices / Misc
+Inhibit Ovum Fertilization [PE],CAT009,Hormonal
+Inhibition Gastric Acid Secretion [PE],CAT007,Gastrointestinal
+Insulin Analog [EPC],CAT002,Antidiabetic
+Insulin [CS],CAT002,Antidiabetic
+Insulin-like Growth Factor-1 Receptor Inhibitor [EPC],CAT002,Antidiabetic
+Integrin Receptor Antagonist [EPC],CAT003,Cardiovascular
+Interferon alfa-2b [CS],CAT010,Vaccines & Biologics
+Interferon alpha [EPC],CAT010,Vaccines & Biologics
+Interferon beta [EPC],CAT010,Vaccines & Biologics
+Interferon gamma Antagonists [MoA],CAT010,Vaccines & Biologics
+Interferon gamma [EPC],CAT010,Vaccines & Biologics
+Interleukin 1 Receptor Antagonists [MoA],CAT010,Vaccines & Biologics
+Interleukin 2 Receptor Antagonists [MoA],CAT010,Vaccines & Biologics
+Interleukin 5 Receptor alpha-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+Interleukin 6 Receptor Antagonists [MoA],CAT010,Vaccines & Biologics
+Interleukin-12 Antagonist [EPC],CAT010,Vaccines & Biologics
+Interleukin-13 Antagonist [EPC],CAT010,Vaccines & Biologics
+Interleukin-15 Receptor Agonist [EPC],CAT010,Vaccines & Biologics
+Interleukin-17A Antagonist [EPC],CAT010,Vaccines & Biologics
+Interleukin-23 Antagonist [EPC],CAT010,Vaccines & Biologics
+Interleukin-31 Receptor alpha Antagonist [EPC],CAT010,Vaccines & Biologics
+Interleukin-36 Receptor Antagonist [EPC],CAT010,Vaccines & Biologics
+Interleukin-5 Antagonist [EPC],CAT010,Vaccines & Biologics
+Interleukin-6 Antagonist [EPC],CAT010,Vaccines & Biologics
+Intestinal Lipase Inhibitor [EPC],CAT007,Gastrointestinal
+Iron Chelating Activity [MoA],CAT013,Supplements
+Iron [CS],CAT013,Supplements
+Isocitrate Dehydrogenase 2 Inhibitor [EPC],CAT012,Oncology
+Janus Kinase Inhibitor [EPC],CAT012,Oncology
+Kallikrein Inhibitors [MoA],CAT003,Cardiovascular
+Kappa Opioid Receptor Agonist [EPC],CAT004,Pain & Inflammation
+Kinase Inhibitor [EPC],CAT012,Oncology
+Lead Chelating Activity [MoA],CAT014,Medical Devices / Misc
+Leukotriene Receptor Antagonist [EPC],CAT006,Allergy & Respiratory
+Lipid Emulsion [EPC],CAT003,Cardiovascular
+Lipid-based Polyene Antifungal [EPC],CAT001,Antibiotics
+Lipoglycopeptide Antibacterial [EPC],CAT001,Antibiotics
+Lipopeptide Antibacterial [EPC],CAT001,Antibiotics
+Local Anesthesia [PE],CAT004,Pain & Inflammation
+Lymphocyte Activation Gene-3 Antagonists [MoA],CAT010,Vaccines & Biologics
+Lymphocyte Function-Associated Antigen-1 Antagonist [EPC],CAT010,Vaccines & Biologics
+Lysosomal beta Glucuronidase [EPC],CAT014,Medical Devices / Misc
+Macrolide Antibacterial [EPC],CAT001,Antibiotics
+Macrolide Antimicrobial [EPC],CAT001,Antibiotics
+Magnetic Resonance Contrast Activity [MoA],CAT014,Medical Devices / Misc
+Medium-chain Triglyceride [EPC],CAT013,Supplements
+Melanocortin 4 Receptor Agonist [EPC],CAT009,Hormonal
+Melanocortin Receptor Agonist [EPC],CAT009,Hormonal
+Melatonin Receptor Agonist [EPC],CAT005,Neurology & Psychiatry
+Menin Inhibitor [EPC],CAT012,Oncology
+Metal Chelating Activity [MoA],CAT014,Medical Devices / Misc
+Methylated Sulfonamide Antibacterial [EPC],CAT001,Antibiotics
+Methylating Activity [MoA],CAT012,Oncology
+Methyltransferase Inhibitor [EPC],CAT012,Oncology
+Methylxanthine [EPC],CAT006,Allergy & Respiratory
+Microtubule Inhibition [PE],CAT012,Oncology
+Mineralocorticoid Receptor Antagonists [MoA],CAT009,Hormonal
+Monoamine Oxidase Inhibitor [EPC],CAT005,Neurology & Psychiatry
+Monobactam Antibacterial [EPC],CAT001,Antibiotics
+Mood Stabilizer [EPC],CAT005,Neurology & Psychiatry
+N-Calcium Channel Receptor Antagonists [MoA],CAT003,Cardiovascular
+N-methyl-D-aspartate Receptor Antagonist [EPC],CAT005,Neurology & Psychiatry
+Neonatal Fc Receptor Blocker [EPC],CAT010,Vaccines & Biologics
+Nerve Growth Factor [CS],CAT010,Vaccines & Biologics
+Neuraminidase Inhibitor [EPC],CAT001,Antibiotics
+Neurokinin 3 Receptor Antagonist [EPC],CAT005,Neurology & Psychiatry
+Neuromuscular Nondepolarizing Blockade [PE],CAT005,Neurology & Psychiatry
+Nicotinic Acid [EPC],CAT013,Supplements
+Nitrate Vasodilator [EPC],CAT003,Cardiovascular
+Nitrofuran Antibacterial [EPC],CAT001,Antibiotics
+Nitroimidazole Antimicrobial [EPC],CAT001,Antibiotics
+Norepinephrine Reuptake Inhibitor [EPC],CAT005,Neurology & Psychiatry
+Norepinephrine Uptake Inhibitors [MoA],CAT005,Neurology & Psychiatry
+Nuclear Export Inhibitor [EPC],CAT012,Oncology
+Nucleic Acid Synthesis Inhibitors [MoA],CAT012,Oncology
+Nucleoside Analog Antifungal [EPC],CAT001,Antibiotics
+Nucleoside Analog Antiviral [EPC],CAT001,Antibiotics
+Oligonucleotide Telomerase Inhibitor [EPC],CAT012,Oncology
+Opioid Agonist [EPC],CAT004,Pain & Inflammation
+Opioid Antagonist [EPC],CAT004,Pain & Inflammation
+Opioid mu-Receptor Agonists [MoA],CAT004,Pain & Inflammation
+Orexin Receptor Antagonist [EPC],CAT005,Neurology & Psychiatry
+Organic Anion Transporting Polypeptide 2B1 Inhibitors [MoA],CAT014,Medical Devices / Misc
+Organic Cation Transporter 2 Inhibitors [MoA],CAT014,Medical Devices / Misc
+Osmotic Activity [MoA],CAT014,Medical Devices / Misc
+Oxazolidinone Antibacterial [EPC],CAT001,Antibiotics
+Oxidation-Reduction Activity [MoA],CAT014,Medical Devices / Misc
+P-Glycoprotein Inhibitors [MoA],CAT014,Medical Devices / Misc
+P-Selectin Blockers [MoA],CAT003,Cardiovascular
+PPAR alpha [CS],CAT003,Cardiovascular
+Parathyroid Hormone Analog [EPC],CAT009,Hormonal
+Parathyroid Hormone-Related Peptide Analog [EPC],CAT009,Hormonal
+Partial Cholinergic Nicotinic Agonist [EPC],CAT005,Neurology & Psychiatry
+Partial Opioid Agonist [EPC],CAT004,Pain & Inflammation
+Pediculicide [EPC],CAT001,Antibiotics
+Penicillin-class Antibacterial [EPC],CAT001,Antibiotics
+Peroxisome Proliferator Receptor alpha Agonist [EPC],CAT003,Cardiovascular
+Phenothiazine [EPC],CAT005,Neurology & Psychiatry
+Phenylalanine Ammonia-Lyase [CS],CAT014,Medical Devices / Misc
+Phosphate Binder [EPC],CAT007,Gastrointestinal
+Phosphodiesterase 3 Inhibitor [EPC],CAT003,Cardiovascular
+Phosphodiesterase 4 Inhibitor [EPC],CAT003,Cardiovascular
+Phosphodiesterase 5 Inhibitor [EPC],CAT003,Cardiovascular
+Photoabsorption [MoA],CAT014,Medical Devices / Misc
+Platinum-based Drug [EPC],CAT012,Oncology
+Poly(ADP-Ribose) Polymerase Inhibitor [EPC],CAT012,Oncology
+Polyene Antifungal [EPC],CAT001,Antibiotics
+Polyene Antimicrobial [EPC],CAT001,Antibiotics
+Polymyxin-class Antibacterial [EPC],CAT001,Antibiotics
+Porphyrin Precursor [EPC],CAT014,Medical Devices / Misc
+Positron Emitting Activity [MoA],CAT014,Medical Devices / Misc
+Potassium Binder [EPC],CAT007,Gastrointestinal
+Potassium Channel Antagonists [MoA],CAT003,Cardiovascular
+Progestational Hormone Receptor Antagonists [MoA],CAT009,Hormonal
+Progesterone Agonist/Antagonist [EPC],CAT009,Hormonal
+Progesterone Congeners [CS],CAT009,Hormonal
+Progesterone [CS],CAT009,Hormonal
+Programmed Death Receptor-1 Blocking Antibody [EPC],CAT010,Vaccines & Biologics
+Prostacyclin Receptor Agonist [EPC],CAT003,Cardiovascular
+Prostacycline Vasodilator [EPC],CAT003,Cardiovascular
+Prostacycline [EPC],CAT003,Cardiovascular
+Prostaglandin Analog [EPC],CAT004,Pain & Inflammation
+Prostaglandin E1 Analog [EPC],CAT004,Pain & Inflammation
+Prostaglandin E2 Receptor Agonist [EPC],CAT004,Pain & Inflammation
+Proteasome Inhibitor [EPC],CAT012,Oncology
+Proton Pump Inhibitor [EPC],CAT007,Gastrointestinal
+Purine Antimetabolite [EPC],CAT012,Oncology
+Pyrethrins [CS],CAT001,Antibiotics
+Pyridone [EPC],CAT014,Medical Devices / Misc
+Quinolone Antimicrobial [EPC],CAT001,Antibiotics
+RANK Ligand Blocking Activity [MoA],CAT012,Oncology
+RNA Synthetase Inhibitor Antibacterial [EPC],CAT001,Antibiotics
+Radioactive Diagnostic Agent [EPC],CAT014,Medical Devices / Misc
+Radioactive Therapeutic Agent [EPC],CAT014,Medical Devices / Misc
+Radioactive alpha-Particle Emitting Therapeutic Agent [EPC],CAT014,Medical Devices / Misc
+Radiographic Contrast Agent [EPC],CAT014,Medical Devices / Misc
+Radioligand Activity [MoA],CAT014,Medical Devices / Misc
+Radiopharmaceutical Activity [MoA],CAT014,Medical Devices / Misc
+Renin Inhibitor [EPC],CAT003,Cardiovascular
+Retinoid [EPC],CAT008,Dermatology
+Rho Kinase Inhibitor [EPC],CAT012,Oncology
+Rifamycin Antibacterial [EPC],CAT001,Antibiotics
+Rifamycin Antimycobacterial [EPC],CAT001,Antibiotics
+SARS-CoV-2 Nucleotide Analog RNA Polymerase Inhibitor [EPC],CAT001,Antibiotics
+Sclerosing Activity [MoA],CAT014,Medical Devices / Misc
+Semifluorinated Alkane [EPC],CAT014,Medical Devices / Misc
+Serotonin 1b Receptor Agonists [MoA],CAT005,Neurology & Psychiatry
+Serotonin 3 Receptor Antagonists [MoA],CAT005,Neurology & Psychiatry
+Serotonin 4 Receptor Agonists [MoA],CAT005,Neurology & Psychiatry
+Serotonin Reuptake Inhibitor [EPC],CAT005,Neurology & Psychiatry
+Sigma-1 Agonist [EPC],CAT005,Neurology & Psychiatry
+Skin Barrier Activity [PE],CAT008,Dermatology
+Sodium-Glucose Cotransporter 2 Inhibitor [EPC],CAT002,Antidiabetic
+Somatostatin Analog [EPC],CAT003,Cardiovascular
+Sphingosine 1-Phosphate Receptor Modulators [MoA],CAT010,Vaccines & Biologics
+Sucrose-specific Enzyme [EPC],CAT014,Medical Devices / Misc
+Sulfonamide Antibacterial [EPC],CAT001,Antibiotics
+Sulfone [EPC],CAT001,Antibiotics
+Sulfonylurea Compounds [CS],CAT002,Antidiabetic
+Tetracycline-class Antibacterial [EPC],CAT001,Antibiotics
+Tetracycline-class Antimicrobial [EPC],CAT001,Antibiotics
+Tetracycline-class Drug [EPC],CAT001,Antibiotics
+Thalidomide Analog [EPC],CAT012,Oncology
+Thymic Stromal Lymphopoietin Blocker [EPC],CAT010,Vaccines & Biologics
+Thyroid Hormone Synthesis Inhibitor [EPC],CAT009,Hormonal
+Thyroid Stimulating Hormone [EPC],CAT009,Hormonal
+Thyroxine [CS],CAT009,Hormonal
+Tissue Factor Pathway Inhibitor Antagonist [EPC],CAT003,Cardiovascular
+Topoisomerase Inhibitor [EPC],CAT012,Oncology
+Tricyclic Antidepressant [EPC],CAT005,Neurology & Psychiatry
+Triiodothyronine [CS],CAT009,Hormonal
+Tryptophan Hydroxylase Inhibitor [EPC],CAT005,Neurology & Psychiatry
+Tumor Necrosis Factor Blocker [EPC],CAT012,Oncology
+Type I Interferon Receptor Antagonist [EPC],CAT010,Vaccines & Biologics
+Typical Antipsychotic [EPC],CAT005,Neurology & Psychiatry
+Tyrosine Kinase 2 Inhibitor [EPC],CAT012,Oncology
+UNKNOWN,CAT015,Others
+Urate Oxidase [CS],CAT014,Medical Devices / Misc
+Urease Inhibitor [EPC],CAT007,Gastrointestinal
+VEGFR2 Inhibitors [MoA],CAT012,Oncology
+Vascular Endothelial Growth Factor Inhibitor [EPC],CAT010,Vaccines & Biologics
+Vasoconstriction [PE],CAT003,Cardiovascular
+Vasodilation [PE],CAT003,Cardiovascular
+Vasopressin Receptor Agonist [EPC],CAT003,Cardiovascular
+Vasopressin V2 Receptor Antagonist [EPC],CAT003,Cardiovascular
+Vesicular Monoamine Transporter 2 Inhibitor [EPC],CAT005,Neurology & Psychiatry
+Vinca Alkaloid [EPC],CAT012,Oncology
+Vitamin A [CS],CAT013,Supplements
+Vitamin B 12 [CS],CAT013,Supplements
+Vitamin D Analog [EPC],CAT013,Supplements
+Vitamin D [CS],CAT013,Supplements
+Vitamin K Antagonist [EPC],CAT013,Supplements
+Xanthine Oxidase Inhibitor [EPC],CAT003,Cardiovascular
+Zaire Ebolavirus Glycoprotein-directed Antibody Interactions [MoA],CAT010,Vaccines & Biologics
+alpha Glucosidase Inhibitors [MoA],CAT002,Antidiabetic
+gamma-Cyclodextrins [CS],CAT014,Medical Devices / Misc

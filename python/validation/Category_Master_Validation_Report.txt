@@ -1,0 +1,67 @@
+======================================================================
+CATEGORY MASTER VALIDATION REPORT
+2026-07-17 16:05:24.044736
+======================================================================
+
+1. DATASET OVERVIEW
+----------------------------------------------------------------------
+Rows : 15
+Columns : 3
+
+2. SCHEMA VALIDATION
+----------------------------------------------------------------------
+[PASS] Category_ID
+[PASS] Category_Name
+[PASS] Description
+
+3. DATA TYPES
+----------------------------------------------------------------------
+Category_ID          str
+Category_Name        str
+Description          str
+
+4. MISSING VALUES
+----------------------------------------------------------------------
+Category_ID          0
+Category_Name        0
+Description          0
+
+5. DUPLICATE VALIDATION
+----------------------------------------------------------------------
+Duplicate Category_ID   : 0
+Duplicate Category_Name : 0
+
+6. CATEGORY FORMAT VALIDATION
+----------------------------------------------------------------------
+Invalid Category_ID Format : 0
+
+7. BUSINESS VALIDATION
+----------------------------------------------------------------------
+Expected Categories : 15
+Actual Categories   : 15
+Category Count      : PASS
+
+Category List
+----------------------------------------------------------------------
+- Allergy
+- Antibiotics
+- Cardiovascular
+- Dermatology
+- Diabetes
+- Gastrointestinal
+- Hormonal & Endocrine
+- Neurology
+- Oncology
+- Ophthalmology
+- Others
+- Pain Management
+- Respiratory
+- Vaccines & Biologics
+- Vitamins & Supplements
+
+8. DATA QUALITY SCORE
+----------------------------------------------------------------------
+Completeness : 100.00%
+Uniqueness   : 100.00%
+Overall      : 100.00%
+Status       : APPROVED FOR ANALYTICS

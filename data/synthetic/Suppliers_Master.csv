@@ -1,0 +1,76 @@
+Supplier_ID,Supplier_Name,Supplier_Type,Supplier_Category,Preferred_Supplier,City,State,Contact_Email,Contact_Number,Lead_Time_Days,Supplier_Rating,Active_Status,Contract_Start_Date,Contract_End_Date,GST_Number
+SUP0001,Sun Pharmaceutical Industries Ltd,Manufacturer,Domestic,Yes,Mumbai,Maharashtra,procurement@sunpharma.com,8746317213,8,4.2,Active,2025-10-17,2030-10-16,27XCKAF5016R1Z5
+SUP0002,Dr. Reddy's Laboratories Ltd,Manufacturer,Domestic,No,Hyderabad,Telangana,procurement@drreddys.com,7801823908,10,4.6,Active,2022-11-23,2027-11-22,36KHFTC3332B1Z5
+SUP0003,Cipla Ltd,Manufacturer,International,No,Mumbai,Maharashtra,procurement@cipla.com,9134174160,14,4.6,Active,2025-07-11,2030-07-10,27XJEBR7988M1Z5
+SUP0004,Lupin Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,procurement@lupin.com,7193887545,14,4.7,Active,2023-07-01,2028-06-29,27YQPES1396R1Z5
+SUP0005,Aurobindo Pharma Ltd,Manufacturer,Domestic,Yes,Hyderabad,Telangana,procurement@aurobindo.com,6943239974,17,4.5,Active,2023-10-09,2027-10-08,36GFYWI6394I1Z5
+SUP0006,Torrent Pharmaceuticals Ltd,Manufacturer,Domestic,No,Ahmedabad,Gujarat,procurement@torrentpharma.com,6599707677,10,4.8,Active,2025-04-10,2029-04-09,24JZDMT8116T1Z5
+SUP0007,Alkem Laboratories Ltd,Manufacturer,International,No,Mumbai,Maharashtra,procurement@alkemlabs.com,6272849424,13,4.5,Inactive,2022-01-24,2027-01-23,27SRNGQ1449X1Z5
+SUP0008,Mankind Pharma Ltd,Manufacturer,Domestic,Yes,New Delhi,Delhi,procurement@mankindpharma.com,7131247330,15,4.8,Active,2025-08-01,2030-07-31,07PDTOU5030L1Z5
+SUP0009,Zydus Lifesciences Ltd,Manufacturer,Domestic,Yes,Ahmedabad,Gujarat,procurement@zyduslife.com,9774081712,20,4.8,Active,2022-06-11,2025-06-10,24TVZND6915T1Z5
+SUP0010,Glenmark Pharmaceuticals Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,procurement@glenmarkpharma.com,7817363615,10,4.9,Active,2024-03-28,2029-03-27,27QLNDF3522C1Z5
+SUP0011,Abbott India Ltd,Manufacturer,Domestic,Yes,Mumbai,Maharashtra,procurement@abbott.com,9040153710,17,4.2,Active,2024-11-18,2027-11-18,27HMOSW5244D1Z5
+SUP0012,Pfizer India Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,procurement@pfizer.com,6416314667,17,4.5,Active,2025-10-11,2030-10-10,27ZCKIW2144I1Z5
+SUP0013,Sanofi India Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,procurement@sanofi.com,7986972437,10,4.9,Active,2022-07-20,2025-07-19,27QOACT2448B1Z5
+SUP0014,GSK Pharmaceuticals Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,procurement@gsk.com,6707111048,13,4.2,Active,2023-08-08,2027-08-07,27SSURM1207B1Z5
+SUP0015,Bayer Pharmaceuticals Pvt Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,procurement@bayer.com,9212530587,12,4.2,Active,2022-11-19,2025-11-18,27YCEPR2182T1Z5
+SUP0016,Cadila Pharmaceuticals Ltd,Manufacturer,Domestic,No,Ahmedabad,Gujarat,procurement@cadilapharma.com,6170689150,16,4.3,Active,2023-06-19,2026-06-18,24RIGDQ4990T1Z5
+SUP0017,Micro Labs Ltd,Manufacturer,Domestic,No,Bengaluru,Karnataka,procurement@microlabs.in,8418039268,8,4.3,Inactive,2022-05-21,2025-05-20,29JEVSP9608J1Z5
+SUP0018,Intas Pharmaceuticals Ltd,Manufacturer,Domestic,Yes,Ahmedabad,Gujarat,procurement@intaspharma.com,8849232839,8,5.0,Active,2025-02-07,2028-02-07,24HPSFQ2498C1Z5
+SUP0019,Biocon Ltd,Manufacturer,Domestic,No,Bengaluru,Karnataka,procurement@biocon.com,8724230947,13,4.9,Active,2023-06-21,2026-06-20,29TOLAB8958S1Z5
+SUP0020,Alembic Pharmaceuticals Ltd,Manufacturer,Domestic,No,Vadodara,Gujarat,procurement@alembicpharmaceuticals.com,8373077218,9,4.5,Inactive,2022-03-23,2026-03-22,24FGCUW4619F1Z5
+SUP0021,Hetero Labs Ltd,Manufacturer,Domestic,Yes,Hyderabad,Telangana,procurement@hetero.com,9435488617,19,4.3,Inactive,2024-04-23,2029-04-22,36WVGUC8828O1Z5
+SUP0022,Natco Pharma Ltd,Manufacturer,Domestic,Yes,Hyderabad,Telangana,procurement@natcopharma.co.in,7501771491,11,4.9,Active,2024-03-27,2028-03-26,36HBUJN6830I1Z5
+SUP0023,Divi's Laboratories Ltd,Manufacturer,Domestic,Yes,Hyderabad,Telangana,procurement@divislabs.com,6766942939,16,5.0,Active,2023-10-05,2027-10-04,36PNKOG7095X1Z5
+SUP0024,Granules India Ltd,Manufacturer,Domestic,Yes,Hyderabad,Telangana,procurement@granulesindia.com,9186651306,18,4.7,Active,2023-11-08,2028-11-06,36IWSHI4421N1Z5
+SUP0025,Ipca Laboratories Ltd,Manufacturer,International,No,Mumbai,Maharashtra,procurement@ipca.com,8855850145,13,4.7,Active,2025-01-27,2028-01-27,27HFUPI4657Z1Z5
+SUP0026,Wockhardt Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,procurement@wockhardt.com,9160930353,9,4.7,Active,2022-07-11,2025-07-10,27RFFAG4804U1Z5
+SUP0027,Strides Pharma Science Ltd,Manufacturer,Domestic,No,Bengaluru,Karnataka,procurement@strides.com,8472487690,10,4.8,Active,2025-11-09,2028-11-08,29XWXUF8645D1Z5
+SUP0028,Emcure Pharmaceuticals Ltd,Manufacturer,Domestic,No,Pune,Maharashtra,procurement@emcure.com,7960488639,9,4.8,Active,2024-06-25,2029-06-24,27VXLXL1847U1Z5
+SUP0029,Ajanta Pharma Ltd,Manufacturer,Domestic,Yes,Mumbai,Maharashtra,procurement@ajantapharma.com,7191043170,19,4.8,Active,2023-08-09,2026-08-08,27HIODG6704R1Z5
+SUP0030,Eris Lifesciences Ltd,Manufacturer,Domestic,No,Ahmedabad,Gujarat,procurement@erislifesciences.com,8001129658,13,4.2,Active,2025-11-25,2028-11-24,24WTJAJ7894X1Z5
+SUP0031,MedPlus Health Services,Distributor,Domestic,No,Hyderabad,Telangana,procurement@medplusmart.com,9155229266,6,4.3,Active,2025-10-01,2030-09-30,36USVXZ5956C1Z5
+SUP0032,Apollo Pharmacy Distribution,Distributor,Domestic,Yes,Hyderabad,Telangana,procurement@apollopharmacy.in,8760588734,9,3.9,Active,2023-03-10,2027-03-09,36ITJTV2005L1Z5
+SUP0033,Reliance Retail Pharma,Distributor,Domestic,No,Mumbai,Maharashtra,procurement@relianceretail.com,6963026855,4,4.6,Inactive,2023-02-13,2026-02-12,27QGMCY4236X1Z5
+SUP0034,Tata 1mg Distribution,Distributor,Domestic,No,Gurugram,Haryana,procurement@1mg.com,9085320828,4,4.6,Active,2023-10-01,2028-09-29,06RYKSB6617V1Z5
+SUP0035,Netmeds Distribution,Distributor,Domestic,Yes,Chennai,Tamil Nadu,procurement@netmeds.com,8578748240,4,4.6,Active,2025-09-16,2029-09-15,33BQAKM4384E1Z5
+SUP0036,Wellness Forever Distribution,Distributor,International,No,Mumbai,Maharashtra,procurement@wellnessforever.in,7870403050,5,4.5,Active,2025-01-07,2029-01-06,27MVPIG9247S1Z5
+SUP0037,PharmEasy Supply Chain,Distributor,Domestic,No,Mumbai,Maharashtra,procurement@pharmeasy.in,8621354709,9,4.1,Active,2023-12-28,2027-12-27,27IWSHA9074Y1Z5
+SUP0038,CarePlus Distributors,Distributor,Domestic,No,Bengaluru,Karnataka,procurement@careplusdistributors.in,7032183433,10,4.4,Active,2023-03-30,2027-03-29,29RHPMN4737I1Z5
+SUP0039,LifeCare Pharma Distributors,Distributor,Domestic,No,Hyderabad,Telangana,procurement@lifecaredistributors.in,7316935719,7,4.0,Active,2025-11-14,2028-11-13,36ETHPT5982L1Z5
+SUP0040,Prime Medical Distributors,Distributor,Domestic,No,Ahmedabad,Gujarat,procurement@primemedicaldistributors.in,6770695571,7,3.8,Inactive,2025-02-07,2029-02-06,24SDWMW5441B1Z5
+SUP0041,HealthFirst Distributors,Distributor,Domestic,No,Chennai,Tamil Nadu,procurement@healthfirstdistributors.in,7084386400,10,3.9,Active,2025-11-06,2028-11-05,33DVYCG5456Y1Z5
+SUP0042,MediLink Healthcare,Distributor,Domestic,No,Pune,Maharashtra,procurement@medilinkhealthcare.in,8244431947,9,4.3,Inactive,2023-09-18,2028-09-16,27QPTYF2611C1Z5
+SUP0043,South India Pharma Distributors,Distributor,Domestic,No,Chennai,Tamil Nadu,procurement@southindiadistributors.in,6672302490,3,4.2,Active,2023-08-14,2028-08-12,33HWBGG7581D1Z5
+SUP0044,North India Medical Suppliers,Distributor,International,No,Delhi,Delhi,procurement@northindiamedicalsuppliers.in,8338877621,6,4.4,Active,2022-12-06,2026-12-05,07PVXLM3425O1Z5
+SUP0045,Eastern Pharma Distribution,Distributor,Domestic,No,Kolkata,West Bengal,procurement@easterndistribution.in,6345495128,3,4.7,Active,2023-04-14,2028-04-12,19VOYZR2074U1Z5
+SUP0046,Western Medical Distributors,Distributor,Domestic,No,Mumbai,Maharashtra,procurement@westernmedicaldistributors.in,7899360801,7,4.0,Active,2022-07-06,2026-07-05,27JIRWI6298R1Z5
+SUP0047,Central Healthcare Suppliers,Distributor,Domestic,Yes,Nagpur,Maharashtra,procurement@centralhealthcaresuppliers.in,6157612991,10,3.9,Active,2024-11-19,2027-11-19,27ROKEJ7672R1Z5
+SUP0048,Universal Pharma Traders,Wholesaler,Domestic,Yes,Hyderabad,Telangana,procurement@universaltraders.in,6562697526,4,4.0,Inactive,2025-05-31,2028-05-30,36SIAKF8196E1Z5
+SUP0049,Shree Medical Agencies,Wholesaler,Domestic,No,Ahmedabad,Gujarat,procurement@shreemedicalagencies.in,8140506492,7,3.8,Active,2024-08-25,2027-08-25,24LDEPT1078K1Z5
+SUP0050,Sai Pharma Agencies,Wholesaler,Domestic,No,Vijayawada,Andhra Pradesh,procurement@saiagencies.in,9383220511,6,3.8,Active,2025-04-02,2030-04-01,37MDOIO5431W1Z5
+SUP0051,Sri Balaji Medical Suppliers,Wholesaler,Domestic,No,Hyderabad,Telangana,procurement@sribalajimedicalsuppliers.in,7025662000,6,3.9,Active,2024-08-26,2029-08-25,36XJZUQ1919K1Z5
+SUP0052,Om Medical Corporation,Wholesaler,Domestic,No,Pune,Maharashtra,procurement@ommedicalcorporation.in,9735334423,2,4.5,Active,2022-10-23,2026-10-22,27WZBUG6303V1Z5
+SUP0053,Jai Pharma Agencies,Wholesaler,Domestic,No,Jaipur,Rajasthan,procurement@jaiagencies.in,9690846590,6,3.9,Active,2025-01-13,2028-01-13,08QGRHF0977D1Z5
+SUP0054,National Pharma Traders,Wholesaler,International,Yes,Delhi,Delhi,procurement@nationaltraders.in,7905584866,3,4.3,Active,2023-08-24,2027-08-23,07JDNOU1086H1Z5
+SUP0055,United Medical Suppliers,Wholesaler,Domestic,No,Bengaluru,Karnataka,procurement@unitedmedicalsuppliers.in,8137464556,6,3.7,Active,2022-01-20,2026-01-19,29XRELI5642J1Z5
+SUP0056,Global Pharma Agencies,Wholesaler,Domestic,No,Chennai,Tamil Nadu,procurement@globalagencies.in,6855630484,5,4.4,Active,2023-08-29,2028-08-27,33HZRHO6706P1Z5
+SUP0057,City Medical Distributors,Wholesaler,Domestic,No,Hyderabad,Telangana,procurement@citymedicaldistributors.in,9577015837,4,4.4,Active,2023-01-25,2028-01-24,36GTTRD0607B1Z5
+SUP0058,RK Pharma Agencies,Wholesaler,Domestic,No,Visakhapatnam,Andhra Pradesh,procurement@rkagencies.in,8489250532,4,4.3,Active,2022-12-26,2025-12-25,37DOZNX8284Z1Z5
+SUP0059,SV Medical Traders,Wholesaler,Domestic,No,Warangal,Telangana,procurement@svmedicaltraders.in,7267622868,7,4.5,Active,2023-04-08,2028-04-06,36SZZUJ7054V1Z5
+SUP0060,Metro Pharma Suppliers,Wholesaler,Domestic,No,Mumbai,Maharashtra,procurement@metrosuppliers.in,9216980347,7,3.8,Active,2025-10-14,2028-10-13,27MQYIP6647U1Z5
+SUP0061,Elite Medical Agencies,Wholesaler,International,No,Ahmedabad,Gujarat,procurement@elitemedicalagencies.in,7753617371,2,3.7,Active,2022-07-19,2025-07-18,24XDLRT9471N1Z5
+SUP0062,Prime Healthcare Traders,Wholesaler,Domestic,No,Lucknow,Uttar Pradesh,procurement@primehealthcaretraders.in,8812868150,2,4.4,Active,2025-11-14,2029-11-13,09FLGJZ3960I1Z5
+SUP0063,HealthCare Wholesale Solutions,Wholesaler,Domestic,Yes,Noida,Uttar Pradesh,procurement@healthcarewholesalesolutions.in,6815221547,2,4.5,Active,2025-08-02,2030-08-01,09ZBIZU2855H1Z5
+SUP0064,MediServe Pharma,Wholesaler,Domestic,No,Hyderabad,Telangana,procurement@mediserve.in,7411152518,3,4.4,Inactive,2022-09-24,2027-09-23,36GERAA7231B1Z5
+SUP0065,Nova Medical Traders,Wholesaler,Domestic,Yes,Bengaluru,Karnataka,procurement@novamedicaltraders.in,6544423789,7,4.0,Active,2024-01-12,2029-01-10,29PLFPS9636A1Z5
+SUP0066,Sigma Healthcare Suppliers,Wholesaler,Domestic,Yes,Chennai,Tamil Nadu,procurement@sigmahealthcaresuppliers.in,6261243105,5,4.4,Active,2024-06-27,2027-06-27,33XIDDQ5735J1Z5
+SUP0067,Apex Pharma Traders,Wholesaler,Domestic,No,Pune,Maharashtra,procurement@apextraders.in,7948692883,6,4.2,Active,2025-08-26,2030-08-25,27SFLFI4404V1Z5
+SUP0068,CareWell Medical Agencies,Wholesaler,Domestic,No,Nagpur,Maharashtra,procurement@carewellmedicalagencies.in,7094743340,4,4.5,Active,2022-06-24,2025-06-23,27LTJDB9564V1Z5
+SUP0069,Unity Pharma Traders,Wholesaler,Domestic,No,Delhi,Delhi,procurement@unitytraders.in,9222446335,5,4.5,Active,2023-12-22,2026-12-21,07PFRFC8375Z1Z5
+SUP0070,Galaxy Medical Suppliers,Wholesaler,Domestic,No,Hyderabad,Telangana,procurement@galaxymedicalsuppliers.in,7843023757,6,4.6,Active,2022-02-23,2027-02-22,36YVGES3308S1Z5
+SUP0071,LifeLine Pharma Agencies,Wholesaler,Domestic,No,Mumbai,Maharashtra,procurement@lifelineagencies.in,8823273703,5,3.6,Active,2024-12-22,2027-12-22,27JLEII9581Y1Z5
+SUP0072,MedCore Healthcare,Wholesaler,Domestic,No,Ahmedabad,Gujarat,procurement@medcorehealthcare.in,8653594796,2,4.2,Active,2024-06-24,2028-06-23,24HTCLH6460M1Z5
+SUP0073,Trust Medical Distributors,Wholesaler,Domestic,Yes,Hyderabad,Telangana,procurement@trustmedicaldistributors.in,8574081104,2,3.5,Active,2023-06-08,2027-06-07,36IATEJ7588C1Z5
+SUP0074,National Drug Suppliers,Wholesaler,Domestic,No,Chennai,Tamil Nadu,procurement@nationaldrugsuppliers.in,7705407682,7,3.5,Active,2025-03-25,2029-03-24,33OSKCA3868L1Z5
+SUP0075,Supreme Pharma Traders,Wholesaler,Domestic,No,Bengaluru,Karnataka,procurement@supremetraders.in,6378514962,5,4.4,Active,2024-03-21,2028-03-20,29TFUBQ5173U1Z5

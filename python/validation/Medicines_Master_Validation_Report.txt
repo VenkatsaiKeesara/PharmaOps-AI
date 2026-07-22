@@ -1,0 +1,126 @@
+======================================================================
+MEDICINES MASTER DATA VALIDATION REPORT
+2026-07-17 15:55:39.609026
+======================================================================
+
+1. DATASET OVERVIEW
+----------------------------------------------------------------------
+Rows : 111,815
+Columns : 13
+
+2. SCHEMA VALIDATION
+----------------------------------------------------------------------
+[PASS] Medicine_ID
+[PASS] Product_NDC
+[PASS] Generic_Name
+[PASS] Brand_Name
+[PASS] Manufacturer
+[PASS] Active_Ingredient
+[PASS] Strength
+[PASS] Dosage_Form
+[PASS] Route
+[PASS] Marketing_Category
+[PASS] Product_Type
+[PASS] Marketing_Start_Date
+[PASS] Pharm_Class
+
+3. DATA TYPES
+----------------------------------------------------------------------
+Medicine_ID               str
+Product_NDC               str
+Generic_Name              str
+Brand_Name                str
+Manufacturer              str
+Active_Ingredient         str
+Strength                  str
+Dosage_Form               str
+Route                     str
+Marketing_Category        str
+Product_Type              str
+Marketing_Start_Date      str
+Pharm_Class               str
+
+4. MISSING VALUES
+----------------------------------------------------------------------
+Medicine_ID               0
+Product_NDC               0
+Generic_Name              0
+Brand_Name                0
+Manufacturer              0
+Active_Ingredient         0
+Strength                  0
+Dosage_Form               0
+Route                     0
+Marketing_Category        0
+Product_Type              0
+Marketing_Start_Date      0
+Pharm_Class               0
+
+5. DUPLICATE VALIDATION
+----------------------------------------------------------------------
+Duplicate Medicine_ID : 0
+Duplicate Product_NDC : 0
+
+6. BUSINESS RULE VALIDATION
+----------------------------------------------------------------------
+Invalid Product Types : 150
+Unexpected Marketing Categories : 51046
+
+7. DOMAIN SUMMARY
+----------------------------------------------------------------------
+
+Product_Type
+Product_Type
+HUMAN PRESCRIPTION DRUG    55897
+HUMAN OTC DRUG             55768
+VACCINE                      150
+Name: count, dtype: int64
+
+Marketing_Category
+Marketing_Category
+ANDA                           49779
+OTC MONOGRAPH DRUG             35404
+UNAPPROVED HOMEOPATHIC         13496
+NDA                             7319
+UNAPPROVED DRUG OTHER           2227
+BLA                             1444
+NDA AUTHORIZED GENERIC          1187
+UNAPPROVED MEDICAL GAS           292
+OTC MONOGRAPH FINAL              221
+DRUG FOR FURTHER PROCESSING      219
+Name: count, dtype: int64
+
+Route
+Route
+ORAL                        65750
+TOPICAL                     27372
+INTRAVENOUS                  4897
+INTRAMUSCULAR                2117
+UNKNOWN                      1887
+OPHTHALMIC                   1481
+RESPIRATORY (INHALATION)     1406
+DENTAL                       1343
+SUBCUTANEOUS                  994
+SUBLINGUAL                    870
+Name: count, dtype: int64
+
+Dosage_Form
+Dosage_Form
+TABLET                 18015
+TABLET, FILM COATED    11095
+LIQUID                  8635
+PELLET                  7427
+CREAM                   6738
+CAPSULE                 6319
+INJECTION, SOLUTION     4038
+SOLUTION                3843
+GEL                     3170
+LOTION                  2797
+Name: count, dtype: int64
+
+8. DATA QUALITY SCORE
+----------------------------------------------------------------------
+Completeness : 100.00%
+Uniqueness   : 100.00%
+Overall      : 100.00%
+Status       : APPROVED FOR ANALYTICS
