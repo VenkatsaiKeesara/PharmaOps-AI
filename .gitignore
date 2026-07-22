@@ -61,7 +61,7 @@ dist/
 *.pbix.autorecovery
 
 # ==============================
-# SQLite Databases
+# SQLite
 # ==============================
 *.db
 
@@ -70,5 +70,8 @@ dist/
 # ==============================
 *.tmp
 *.bak
-# Large raw datasets
+
+# ==============================
+# Large Raw Dataset
+# ==============================
 data/raw/drug_ndc.json
