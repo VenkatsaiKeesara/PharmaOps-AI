@@ -1,23 +1,4 @@
-Pharm_Class,Category_ID,Category_Name
-Histamine H1 Receptor Antagonists [MoA],CAT001,Allergy
-Histamine H2 Receptor Antagonists [MoA],CAT001,Allergy
-Histamine-1 Receptor Antagonist [EPC],CAT001,Allergy
-Antihistamine [EPC],CAT001,Allergy
-Allergens [CS],CAT001,Allergy
-Decreased Histamine Release [PE],CAT001,Allergy
-Sulfonamide Antibacterial [EPC],CAT002,Antibiotics
-Quinolone Antimicrobial [EPC],CAT002,Antibiotics
-Fluoroquinolone Antibacterial [EPC],CAT002,Antibiotics
-Methylated Sulfonamide Antibacterial [EPC],CAT002,Antibiotics
-Cephalosporin Antibacterial [EPC],CAT002,Antibiotics
-Penicillin-class Antibacterial [EPC],CAT002,Antibiotics
-Macrolide Antibacterial [EPC],CAT002,Antibiotics
-Macrolide Antimicrobial [EPC],CAT002,Antibiotics
-Decreased Cholesterol Absorption [PE],CAT003,Cardiovascular
-N-Calcium Channel Receptor Antagonists [MoA],CAT003,Cardiovascular
-Alveolar Surface Tension Reduction [PE],CAT003,Cardiovascular
-Histone Deacetylase Inhibitor [EPC],CAT003,Cardiovascular
-Amyloid Beta-directed Antibody Interactions [MoA],CAT003,Cardiovascular
+
 Somatostatin Analog [EPC],CAT003,Cardiovascular
 Angiotensin 2 Receptor Antagonists [MoA],CAT003,Cardiovascular
 Angiotensin 2 Receptor Blocker [EPC],CAT003,Cardiovascular
