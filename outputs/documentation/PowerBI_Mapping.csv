@@ -1,0 +1,6 @@
+Table,Table_Type,Primary_Key,Relationship,Business_Purpose,Dashboard_Usage
+Fact_Medicine_Performance,Fact,Inventory_ID,Links to all Dimensions,Central Business Metrics,All Dashboard Pages
+Dim_Medicine,Dimension,Medicine_ID,Medicine_ID,Medicine Master,Medicine Analysis
+Dim_Category,Dimension,Category_ID,Category_ID,Medicine Classification,Category Analysis
+Dim_Supplier,Dimension,Supplier_ID,Supplier_ID,Supplier Analytics,Supplier Dashboard
+Dim_Date,Dimension,Date,Date,Time Intelligence,Time Slicers

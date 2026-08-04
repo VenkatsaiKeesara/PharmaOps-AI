@@ -1,0 +1,76 @@
+Supplier_ID,Supplier_Name,Supplier_Type,Supplier_Category,Preferred_Supplier,City,State,Lead_Time_Days,Supplier_Rating,Active_Status
+SUP0001,Sun Pharmaceutical Industries Ltd,Manufacturer,Domestic,Yes,Mumbai,Maharashtra,8,4.2,Active
+SUP0002,Dr. Reddy's Laboratories Ltd,Manufacturer,Domestic,No,Hyderabad,Telangana,10,4.6,Active
+SUP0003,Cipla Ltd,Manufacturer,International,No,Mumbai,Maharashtra,14,4.6,Active
+SUP0004,Lupin Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,14,4.7,Active
+SUP0005,Aurobindo Pharma Ltd,Manufacturer,Domestic,Yes,Hyderabad,Telangana,17,4.5,Active
+SUP0006,Torrent Pharmaceuticals Ltd,Manufacturer,Domestic,No,Ahmedabad,Gujarat,10,4.8,Active
+SUP0007,Alkem Laboratories Ltd,Manufacturer,International,No,Mumbai,Maharashtra,13,4.5,Inactive
+SUP0008,Mankind Pharma Ltd,Manufacturer,Domestic,Yes,New Delhi,Delhi,15,4.8,Active
+SUP0009,Zydus Lifesciences Ltd,Manufacturer,Domestic,Yes,Ahmedabad,Gujarat,20,4.8,Active
+SUP0010,Glenmark Pharmaceuticals Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,10,4.9,Active
+SUP0011,Abbott India Ltd,Manufacturer,Domestic,Yes,Mumbai,Maharashtra,17,4.2,Active
+SUP0012,Pfizer India Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,17,4.5,Active
+SUP0013,Sanofi India Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,10,4.9,Active
+SUP0014,GSK Pharmaceuticals Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,13,4.2,Active
+SUP0015,Bayer Pharmaceuticals Pvt Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,12,4.2,Active
+SUP0016,Cadila Pharmaceuticals Ltd,Manufacturer,Domestic,No,Ahmedabad,Gujarat,16,4.3,Active
+SUP0017,Micro Labs Ltd,Manufacturer,Domestic,No,Bengaluru,Karnataka,8,4.3,Inactive
+SUP0018,Intas Pharmaceuticals Ltd,Manufacturer,Domestic,Yes,Ahmedabad,Gujarat,8,5.0,Active
+SUP0019,Biocon Ltd,Manufacturer,Domestic,No,Bengaluru,Karnataka,13,4.9,Active
+SUP0020,Alembic Pharmaceuticals Ltd,Manufacturer,Domestic,No,Vadodara,Gujarat,9,4.5,Inactive
+SUP0021,Hetero Labs Ltd,Manufacturer,Domestic,Yes,Hyderabad,Telangana,19,4.3,Inactive
+SUP0022,Natco Pharma Ltd,Manufacturer,Domestic,Yes,Hyderabad,Telangana,11,4.9,Active
+SUP0023,Divi's Laboratories Ltd,Manufacturer,Domestic,Yes,Hyderabad,Telangana,16,5.0,Active
+SUP0024,Granules India Ltd,Manufacturer,Domestic,Yes,Hyderabad,Telangana,18,4.7,Active
+SUP0025,Ipca Laboratories Ltd,Manufacturer,International,No,Mumbai,Maharashtra,13,4.7,Active
+SUP0026,Wockhardt Ltd,Manufacturer,Domestic,No,Mumbai,Maharashtra,9,4.7,Active
+SUP0027,Strides Pharma Science Ltd,Manufacturer,Domestic,No,Bengaluru,Karnataka,10,4.8,Active
+SUP0028,Emcure Pharmaceuticals Ltd,Manufacturer,Domestic,No,Pune,Maharashtra,9,4.8,Active
+SUP0029,Ajanta Pharma Ltd,Manufacturer,Domestic,Yes,Mumbai,Maharashtra,19,4.8,Active
+SUP0030,Eris Lifesciences Ltd,Manufacturer,Domestic,No,Ahmedabad,Gujarat,13,4.2,Active
+SUP0031,MedPlus Health Services,Distributor,Domestic,No,Hyderabad,Telangana,6,4.3,Active
+SUP0032,Apollo Pharmacy Distribution,Distributor,Domestic,Yes,Hyderabad,Telangana,9,3.9,Active
+SUP0033,Reliance Retail Pharma,Distributor,Domestic,No,Mumbai,Maharashtra,4,4.6,Inactive
+SUP0034,Tata 1mg Distribution,Distributor,Domestic,No,Gurugram,Haryana,4,4.6,Active
+SUP0035,Netmeds Distribution,Distributor,Domestic,Yes,Chennai,Tamil Nadu,4,4.6,Active
+SUP0036,Wellness Forever Distribution,Distributor,International,No,Mumbai,Maharashtra,5,4.5,Active
+SUP0037,PharmEasy Supply Chain,Distributor,Domestic,No,Mumbai,Maharashtra,9,4.1,Active
+SUP0038,CarePlus Distributors,Distributor,Domestic,No,Bengaluru,Karnataka,10,4.4,Active
+SUP0039,LifeCare Pharma Distributors,Distributor,Domestic,No,Hyderabad,Telangana,7,4.0,Active
+SUP0040,Prime Medical Distributors,Distributor,Domestic,No,Ahmedabad,Gujarat,7,3.8,Inactive
+SUP0041,HealthFirst Distributors,Distributor,Domestic,No,Chennai,Tamil Nadu,10,3.9,Active
+SUP0042,MediLink Healthcare,Distributor,Domestic,No,Pune,Maharashtra,9,4.3,Inactive
+SUP0043,South India Pharma Distributors,Distributor,Domestic,No,Chennai,Tamil Nadu,3,4.2,Active
+SUP0044,North India Medical Suppliers,Distributor,International,No,Delhi,Delhi,6,4.4,Active
+SUP0045,Eastern Pharma Distribution,Distributor,Domestic,No,Kolkata,West Bengal,3,4.7,Active
+SUP0046,Western Medical Distributors,Distributor,Domestic,No,Mumbai,Maharashtra,7,4.0,Active
+SUP0047,Central Healthcare Suppliers,Distributor,Domestic,Yes,Nagpur,Maharashtra,10,3.9,Active
+SUP0048,Universal Pharma Traders,Wholesaler,Domestic,Yes,Hyderabad,Telangana,4,4.0,Inactive
+SUP0049,Shree Medical Agencies,Wholesaler,Domestic,No,Ahmedabad,Gujarat,7,3.8,Active
+SUP0050,Sai Pharma Agencies,Wholesaler,Domestic,No,Vijayawada,Andhra Pradesh,6,3.8,Active
+SUP0051,Sri Balaji Medical Suppliers,Wholesaler,Domestic,No,Hyderabad,Telangana,6,3.9,Active
+SUP0052,Om Medical Corporation,Wholesaler,Domestic,No,Pune,Maharashtra,2,4.5,Active
+SUP0053,Jai Pharma Agencies,Wholesaler,Domestic,No,Jaipur,Rajasthan,6,3.9,Active
+SUP0054,National Pharma Traders,Wholesaler,International,Yes,Delhi,Delhi,3,4.3,Active
+SUP0055,United Medical Suppliers,Wholesaler,Domestic,No,Bengaluru,Karnataka,6,3.7,Active
+SUP0056,Global Pharma Agencies,Wholesaler,Domestic,No,Chennai,Tamil Nadu,5,4.4,Active
+SUP0057,City Medical Distributors,Wholesaler,Domestic,No,Hyderabad,Telangana,4,4.4,Active
+SUP0058,RK Pharma Agencies,Wholesaler,Domestic,No,Visakhapatnam,Andhra Pradesh,4,4.3,Active
+SUP0059,SV Medical Traders,Wholesaler,Domestic,No,Warangal,Telangana,7,4.5,Active
+SUP0060,Metro Pharma Suppliers,Wholesaler,Domestic,No,Mumbai,Maharashtra,7,3.8,Active
+SUP0061,Elite Medical Agencies,Wholesaler,International,No,Ahmedabad,Gujarat,2,3.7,Active
+SUP0062,Prime Healthcare Traders,Wholesaler,Domestic,No,Lucknow,Uttar Pradesh,2,4.4,Active
+SUP0063,HealthCare Wholesale Solutions,Wholesaler,Domestic,Yes,Noida,Uttar Pradesh,2,4.5,Active
+SUP0064,MediServe Pharma,Wholesaler,Domestic,No,Hyderabad,Telangana,3,4.4,Inactive
+SUP0065,Nova Medical Traders,Wholesaler,Domestic,Yes,Bengaluru,Karnataka,7,4.0,Active
+SUP0066,Sigma Healthcare Suppliers,Wholesaler,Domestic,Yes,Chennai,Tamil Nadu,5,4.4,Active
+SUP0067,Apex Pharma Traders,Wholesaler,Domestic,No,Pune,Maharashtra,6,4.2,Active
+SUP0068,CareWell Medical Agencies,Wholesaler,Domestic,No,Nagpur,Maharashtra,4,4.5,Active
+SUP0069,Unity Pharma Traders,Wholesaler,Domestic,No,Delhi,Delhi,5,4.5,Active
+SUP0070,Galaxy Medical Suppliers,Wholesaler,Domestic,No,Hyderabad,Telangana,6,4.6,Active
+SUP0071,LifeLine Pharma Agencies,Wholesaler,Domestic,No,Mumbai,Maharashtra,5,3.6,Active
+SUP0072,MedCore Healthcare,Wholesaler,Domestic,No,Ahmedabad,Gujarat,2,4.2,Active
+SUP0073,Trust Medical Distributors,Wholesaler,Domestic,Yes,Hyderabad,Telangana,2,3.5,Active
+SUP0074,National Drug Suppliers,Wholesaler,Domestic,No,Chennai,Tamil Nadu,7,3.5,Active
+SUP0075,Supreme Pharma Traders,Wholesaler,Domestic,No,Bengaluru,Karnataka,5,4.4,Active

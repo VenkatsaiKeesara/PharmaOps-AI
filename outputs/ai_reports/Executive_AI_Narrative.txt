@@ -1,0 +1,26 @@
+
+PHARMAOPS AI - EXECUTIVE BUSINESS SUMMARY
+
+================================================
+
+Total Medicines          : 4,824
+
+Total Suppliers          : 75
+
+Total Revenue            : ₹ 1,048,616.69
+
+Inventory Value          : ₹ 740,416,928.07
+
+Potential Sales Value    : ₹ 961,531,775.60
+
+Potential Gross Profit   : ₹ 221,114,847.53
+
+Total Waste Value        : ₹ 72,651,153.72
+
+Average Supplier Rating  : 4.34
+
+Average Profit Margin    : 22.88%
+
+================================================
+
+This report is intended as structured input for an AI-powered executive summary.

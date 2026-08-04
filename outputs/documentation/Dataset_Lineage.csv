@@ -1,0 +1,8 @@
+Stage,Input,Output,Notebook
+Raw FDA Dataset,FDA NDC JSON,Medicines_Master,Data Engineering
+Preprocessing,Raw Dataset,Clean Dataset,Notebook 02
+Feature Engineering,Processed Dataset,Feature_Store.csv,Notebook 04
+Business Analytics,Feature Store,Business Insights,Notebook 05
+Dashboard Preparation,Feature Store,Star Schema,Notebook 06
+AI Recommendation Engine,Feature Store,AI Reports,Notebook 07
+Power BI Dashboard,Dashboard Data,Interactive Dashboard,Power BI

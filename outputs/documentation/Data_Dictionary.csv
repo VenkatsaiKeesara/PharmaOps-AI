@@ -1,0 +1,168 @@
+Dataset,Column,Data_Type,Missing_Values,Unique_Values,Sample_Value
+Feature Store,Inventory_ID,object,0,4954,INV004233
+Feature Store,Medicine_ID,object,0,4824,MED056437
+Feature Store,Supplier_ID,object,0,75,SUP0058
+Feature Store,Batch_Number,object,0,4954,BAT986959
+Feature Store,Manufacturing_Date,object,0,1084,2026-03-05
+Feature Store,Expiry_Date,object,0,1531,2027-03-30
+Feature Store,Quantity_In_Stock,int64,0,993,992
+Feature Store,Unit_Cost,float64,0,4753,597.63
+Feature Store,Selling_Price,float64,0,4788,806.78
+Feature Store,Reorder_Level,int64,0,176,118
+Feature Store,Storage_Temperature,object,0,3,Frozen (-20Â°C)
+Feature Store,Warehouse_Location,object,0,5,WH-A
+Feature Store,Stock_Status,object,0,3,In Stock
+Feature Store,Last_Restock_Date,object,0,1038,2026-04-23
+Feature Store,Product_NDC,object,0,4824,98132-316
+Feature Store,Generic_Name,object,0,2088,Titanium Dioxide
+Feature Store,Brand_Name,object,0,3193,Bareminerals Barepro Performance Wear Liquid Foundation Broad Spectrum Spf 20 Latte 24
+Feature Store,Manufacturer,object,0,1500,Orveon Global Us Llc
+Feature Store,Active_Ingredient,object,0,1246,TITANIUM DIOXIDE
+Feature Store,Strength,object,0,1066,33.2 mg/mL
+Feature Store,Dosage_Form,object,0,106,LIQUID
+Feature Store,Route,object,0,33,TOPICAL
+Feature Store,Pharm_Class,object,0,319,UNKNOWN
+Feature Store,Category_ID,object,0,14,CAT015
+Feature Store,Supplier_Name,object,0,75,RK Pharma Agencies
+Feature Store,Supplier_Type,object,0,3,Wholesaler
+Feature Store,Supplier_Category,object,0,2,Domestic
+Feature Store,Preferred_Supplier,object,0,2,No
+Feature Store,City,object,0,18,Visakhapatnam
+Feature Store,State,object,0,11,Andhra Pradesh
+Feature Store,Contact_Email,object,0,75,procurement@rkagencies.in
+Feature Store,Contact_Number,int64,0,75,8489250532
+Feature Store,Lead_Time_Days,int64,0,19,4
+Feature Store,Supplier_Rating,float64,0,16,4.3
+Feature Store,Active_Status,object,0,2,Active
+Feature Store,Contract_Start_Date,object,0,73,2022-12-26
+Feature Store,Contract_End_Date,object,0,75,2025-12-25
+Feature Store,GST_Number,object,0,75,37DOZNX8284Z1Z5
+Feature Store,Category_Name,object,0,14,Others
+Feature Store,Description,object,0,14,Medicines that do not fit into the predefined business categories
+Feature Store,Total_Revenue,float64,0,617,0.0
+Feature Store,Total_Quantity_Sold,float64,0,13,0.0
+Feature Store,Average_Discount,float64,0,9,0.0
+Feature Store,Total_Transactions,float64,0,4,0.0
+Feature Store,Total_Waste_Value,float64,0,2447,2390.52
+Feature Store,Total_Quantity_Wasted,float64,0,217,4.0
+Feature Store,Inventory_Value,float64,0,4953,592848.96
+Feature Store,Potential_Sales_Value,float64,0,4950,800325.76
+Feature Store,Potential_Gross_Profit,float64,0,4950,207476.80000000005
+Feature Store,Profit_per_Unit,float64,0,4650,209.15
+Feature Store,Profit_Margin_Percentage,float64,0,1179,25.92
+Feature Store,Markup_Percentage,float64,0,1857,35.0
+Feature Store,Revenue_per_Transaction,float64,0,617,0.0
+Feature Store,Revenue_per_Unit_Sold,float64,0,618,0.0
+Feature Store,Inventory_ROI,float64,0,644,-100.0
+Feature Store,Cost_to_Revenue_Ratio,float64,0,643,0.0
+Feature Store,Days_to_Expiry,int64,0,1531,240
+Feature Store,Inventory_Age_Days,int64,0,1084,150
+Feature Store,Days_Since_Last_Restock,int64,0,1038,101
+Feature Store,Stock_Difference,int64,0,1099,874
+Feature Store,Stock_Coverage_Ratio,float64,0,4704,8.40677966101695
+Feature Store,Low_Stock_Flag,int64,0,2,0
+Feature Store,Overstock_Flag,int64,0,2,1
+Feature Store,Out_of_Stock_Flag,int64,0,2,0
+Feature Store,Expiry_Risk,object,0,5,Low
+Feature Store,Near_Expiry_Flag,int64,0,2,0
+Feature Store,Inventory_Health_Score,int64,0,9,90
+Feature Store,Business_Priority,object,0,2,Low
+Feature Store,Cumulative_Inventory_Value,float64,0,4952,592848.96
+Feature Store,Cumulative_Percentage,float64,0,4952,0.0800696117990364
+Feature Store,ABC_Class,object,0,3,A
+Feature Store,Inventory_Criticality,object,0,4,High
+Feature Store,Stock_Priority,object,0,4,Reduce Inventory
+Feature Store,Revenue_Percentile,float64,0,617,0.4353048041986274
+Feature Store,Revenue_Category,object,0,2,Medium
+Feature Store,Sales_Percentile,float64,0,13,0.4353048041986274
+Feature Store,Movement_Type,object,0,2,Medium Moving
+Feature Store,High_Revenue_Flag,int64,0,1,1
+Feature Store,Sales_Performance_Score,float64,0,1767,52.98
+Feature Store,Waste_Percentage,float64,0,2405,0.4032258064516129
+Feature Store,Waste_Cost_Ratio,float64,0,2435,0.0040322580645161
+Feature Store,Waste_Risk,object,0,4,Low
+Feature Store,Supplier_Performance_Index,float64,0,22,82.0
+Feature Store,Supplier_Risk,object,0,3,Low
+Feature Store,Executive_Risk_Score,float64,0,2450,77.28
+Feature Store,Executive_Priority,object,0,4,Medium
+Fact_Medicine_Performance,Inventory_ID,object,0,4954,INV004233
+Fact_Medicine_Performance,Medicine_ID,object,0,4824,MED056437
+Fact_Medicine_Performance,Supplier_ID,object,0,75,SUP0058
+Fact_Medicine_Performance,Category_ID,object,0,14,CAT015
+Fact_Medicine_Performance,Manufacturing_Date,object,0,1084,2026-03-05
+Fact_Medicine_Performance,Expiry_Date,object,0,1531,2027-03-30
+Fact_Medicine_Performance,Last_Restock_Date,object,0,1038,2026-04-23
+Fact_Medicine_Performance,Quantity_In_Stock,int64,0,993,992
+Fact_Medicine_Performance,Unit_Cost,float64,0,4753,597.63
+Fact_Medicine_Performance,Selling_Price,float64,0,4788,806.78
+Fact_Medicine_Performance,Inventory_Value,float64,0,4953,592848.96
+Fact_Medicine_Performance,Potential_Sales_Value,float64,0,4950,800325.76
+Fact_Medicine_Performance,Potential_Gross_Profit,float64,0,4950,207476.80000000005
+Fact_Medicine_Performance,Total_Revenue,float64,0,617,0.0
+Fact_Medicine_Performance,Total_Quantity_Sold,float64,0,13,0.0
+Fact_Medicine_Performance,Revenue_per_Transaction,float64,0,617,0.0
+Fact_Medicine_Performance,Revenue_per_Unit_Sold,float64,0,618,0.0
+Fact_Medicine_Performance,Total_Waste_Value,float64,0,2447,2390.52
+Fact_Medicine_Performance,Total_Quantity_Wasted,float64,0,217,4.0
+Fact_Medicine_Performance,Waste_Percentage,float64,0,2405,0.4032258064516129
+Fact_Medicine_Performance,Waste_Cost_Ratio,float64,0,2435,0.0040322580645161
+Fact_Medicine_Performance,Profit_per_Unit,float64,0,4650,209.15
+Fact_Medicine_Performance,Profit_Margin_Percentage,float64,0,1179,25.92
+Fact_Medicine_Performance,Markup_Percentage,float64,0,1857,35.0
+Fact_Medicine_Performance,Inventory_ROI,float64,0,644,-100.0
+Fact_Medicine_Performance,Cost_to_Revenue_Ratio,float64,0,643,0.0
+Fact_Medicine_Performance,Days_to_Expiry,int64,0,1531,240
+Fact_Medicine_Performance,Inventory_Age_Days,int64,0,1084,150
+Fact_Medicine_Performance,Days_Since_Last_Restock,int64,0,1038,101
+Fact_Medicine_Performance,Stock_Difference,int64,0,1099,874
+Fact_Medicine_Performance,Stock_Coverage_Ratio,float64,0,4704,8.40677966101695
+Fact_Medicine_Performance,Low_Stock_Flag,int64,0,2,0
+Fact_Medicine_Performance,Overstock_Flag,int64,0,2,1
+Fact_Medicine_Performance,Out_of_Stock_Flag,int64,0,2,0
+Fact_Medicine_Performance,Near_Expiry_Flag,int64,0,2,0
+Fact_Medicine_Performance,ABC_Class,object,0,3,A
+Fact_Medicine_Performance,Movement_Type,object,0,2,Medium Moving
+Fact_Medicine_Performance,Waste_Risk,object,0,4,Low
+Fact_Medicine_Performance,Supplier_Risk,object,0,3,Low
+Fact_Medicine_Performance,Business_Priority,object,0,2,Low
+Fact_Medicine_Performance,Inventory_Criticality,object,0,4,High
+Fact_Medicine_Performance,Stock_Priority,object,0,4,Reduce Inventory
+Fact_Medicine_Performance,Executive_Priority,object,0,4,Medium
+Fact_Medicine_Performance,Inventory_Health_Score,int64,0,9,90
+Fact_Medicine_Performance,Sales_Performance_Score,float64,0,1767,52.98
+Fact_Medicine_Performance,Supplier_Performance_Index,float64,0,22,82.0
+Fact_Medicine_Performance,Executive_Risk_Score,float64,0,2450,77.28
+Dim_Medicine,Medicine_ID,object,0,4824,MED000020
+Dim_Medicine,Product_NDC,object,0,4824,72162-1824
+Dim_Medicine,Generic_Name,object,0,2088,Temazepam
+Dim_Medicine,Brand_Name,object,0,3193,Temazepam
+Dim_Medicine,Manufacturer,object,0,1500,Bryant Ranch Prepack
+Dim_Medicine,Active_Ingredient,object,0,1246,TEMAZEPAM
+Dim_Medicine,Strength,object,0,1066,15 mg/1
+Dim_Medicine,Dosage_Form,object,0,106,CAPSULE
+Dim_Medicine,Route,object,0,33,ORAL
+Dim_Medicine,Pharm_Class,object,0,319,Benzodiazepine [EPC]
+Dim_Medicine,Category_ID,object,0,14,CAT005
+Dim_Medicine,Category_Name,object,0,14,Neurology
+Dim_Category,Category_ID,object,0,14,CAT001
+Dim_Category,Category_Name,object,0,14,Antibiotics
+Dim_Category,Description,object,0,14,Medicines used to treat bacterial infections
+Dim_Supplier,Supplier_ID,object,0,75,SUP0001
+Dim_Supplier,Supplier_Name,object,0,75,Sun Pharmaceutical Industries Ltd
+Dim_Supplier,Supplier_Type,object,0,3,Manufacturer
+Dim_Supplier,Supplier_Category,object,0,2,Domestic
+Dim_Supplier,Preferred_Supplier,object,0,2,Yes
+Dim_Supplier,City,object,0,18,Mumbai
+Dim_Supplier,State,object,0,11,Maharashtra
+Dim_Supplier,Lead_Time_Days,int64,0,19,8
+Dim_Supplier,Supplier_Rating,float64,0,16,4.2
+Dim_Supplier,Active_Status,object,0,2,Active
+Dim_Date,Date,object,0,2030,2023-07-21
+Dim_Date,Year,int64,0,7,2023
+Dim_Date,Quarter,object,0,4,Q3
+Dim_Date,Month,int64,0,12,7
+Dim_Date,Month_Name,object,0,12,July
+Dim_Date,Week,int64,0,53,29
+Dim_Date,Day,int64,0,31,21
+Dim_Date,Day_Name,object,0,7,Friday
+Dim_Date,Weekday,int64,0,7,5

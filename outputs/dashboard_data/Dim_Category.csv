@@ -1,0 +1,15 @@
+Category_ID,Category_Name,Description
+CAT001,Antibiotics,Medicines used to treat bacterial infections
+CAT002,Cardiovascular,Medicines for heart and blood vessel disorders
+CAT003,Diabetes,Medicines used for diabetes management
+CAT004,Pain Management,Pain relief and anti-inflammatory medicines
+CAT005,Neurology,Medicines for neurological disorders and the central nervous system
+CAT006,Respiratory,"Medicines for asthma, COPD, and other respiratory conditions"
+CAT007,Gastrointestinal,Medicines for digestive system disorders
+CAT008,Dermatology,Medicines used for skin conditions
+CAT009,Oncology,Medicines used in cancer treatment
+CAT010,Allergy,Medicines used for allergies and immune responses
+CAT012,Ophthalmology,Medicines used for eye diseases and vision care
+CAT013,Vaccines & Biologics,"Vaccines, plasma products and biological medicines"
+CAT014,Vitamins & Supplements,"Vitamins, minerals, nutritional supplements and wellness products"
+CAT015,Others,Medicines that do not fit into the predefined business categories

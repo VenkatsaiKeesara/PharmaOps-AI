@@ -1,0 +1,7 @@
+Dataset,Rows,Columns,Missing_Values,Duplicate_Rows,Completeness(%),Quality_Score,Deployment_Status
+Feature_Store,4954,86,0,0,100.0,100.0,READY
+Fact_Medicine_Performance,4954,47,0,0,100.0,100.0,READY
+Dim_Medicine,4824,12,0,0,100.0,100.0,READY
+Dim_Category,14,3,0,0,100.0,100.0,READY
+Dim_Supplier,75,10,0,0,100.0,100.0,READY
+Dim_Date,2030,9,0,0,100.0,100.0,READY

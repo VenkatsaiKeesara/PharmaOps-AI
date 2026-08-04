@@ -1,0 +1,5 @@
+From_Table,To_Table,Relationship,Cardinality
+Fact_Medicine_Performance,Dim_Medicine,Medicine_ID,Many-to-One
+Fact_Medicine_Performance,Dim_Category,Category_ID,Many-to-One
+Fact_Medicine_Performance,Dim_Supplier,Supplier_ID,Many-to-One
+Fact_Medicine_Performance,Dim_Date,Date,Many-to-One
