@@ -34,12 +34,15 @@ SYNTHETIC_PATH.mkdir(parents=True, exist_ok=True)
 # Load Reference Dataset
 # ------------------------------------------------------------
 
-medicines_df = pd.read_csv(
-    PROCESSED_PATH / "Medicines_Master_Clean.csv"
+inventory_df = pd.read_csv(
+    PROJECT_ROOT / "data" / "synthetic" / "Medicines_Inventory.csv"
 )
 
-medicine_ids = medicines_df["Medicine_ID"].tolist()
-
+medicine_ids = (
+    inventory_df["Medicine_ID"]
+    .drop_duplicates()
+    .tolist()
+)
 # ------------------------------------------------------------
 # Lookup Values
 # ------------------------------------------------------------

@@ -15,65 +15,65 @@ EXECUTIVE KPIs
         Total Medicines       4,824.00
         Total Suppliers          75.00
        Total Categories          14.00
-          Total Revenue   1,048,616.69
-        Inventory Value 740,416,928.07
-        Potential Sales 961,531,775.60
-       Potential Profit 221,114,847.53
+          Total Revenue  14,292,183.85
+        Inventory Value 733,147,804.56
+        Potential Sales 952,090,541.76
+       Potential Profit 218,942,737.20
             Waste Value  72,651,153.72
 Average Supplier Rating           4.34
-  Average Profit Margin          22.88
+  Average Profit Margin          22.80
 
 ===========================================================
 TOP 10 HIGH RISK MEDICINES
 ===========================================================
 
-Medicine_ID                                                                                                                                                          Generic_Name  Executive_Risk_Score Business_Priority Waste_Risk Supplier_Risk
-  MED036165  Amanita Muscaria Fruiting Body, Garlic, Aristolochia Clematitis Whole, Simaba Cedron Seed, Goldenseal, Okoubaka Aubrevillei Bark, And Vincetoxicum Hirundinaria Leaf                 97.04               Low        Low           Low
-  MED082969                                                                                                                                                               Digoxin                 96.90               Low        Low           Low
-  MED107543                                                                                                                                           Oxymetazoline Hydrochloride                 96.19               Low        Low           Low
-  MED136886                                                                                                                                           Abbasi Co Minoxidil Shampoo                 95.69               Low        Low           Low
-  MED066839                                                                                                                                                           Telmisartan                 95.34               Low        Low           Low
-  MED109665                                                                                                                                                         Phenobarbital                 95.27               Low     Medium           Low
-  MED129408                                                                                                                                          Diethylpropion Hydrochloride                 95.08               Low        Low          High
-  MED015173                                                                                                                                                     Magnesium Citrate                 95.07               Low        Low           Low
-  MED129709 Echinacea (Angustifolia), Tabebuia Impetiginosa, Abies Nigra, Lycopodium Clavatum, Nux Vomica, Phosphorus, Pulsatilla (Vulgaris), Sepia, Skatolum, Canadida Albicans,                 94.97               Low     Medium           Low
-  MED035506                                                                                                                                                           Atomoxetine                 94.72               Low       High        Medium
+Medicine_ID                Generic_Name  Executive_Risk_Score Business_Priority Waste_Risk Supplier_Risk
+  MED091033                      Sulfur                 97.94               Low        Low           Low
+  MED046994                  Citalopram                 96.50               Low        Low           Low
+  MED025049            Morphine Sulfate                 96.24               Low        Low        Medium
+  MED101225         Europium Metallicum                 96.01               Low        Low           Low
+  MED058126        Levothyroxine Sodium                 95.72               Low        Low        Medium
+  MED136789      Lonapegsomatropin-Tcgd                 95.42               Low        Low           Low
+  MED133096 Benzalkonium Chloride 0.13%                 95.26               Low        Low           Low
+  MED092432  Triple Antibiotic Ointment                 95.26               Low        Low           Low
+  MED130449                Aripiprazole                 95.24               Low        Low           Low
+  MED013957         Acetaminophen 500Mg                 94.90               Low        Low          High
 
 ===========================================================
 TOP 10 WASTE MEDICINES
 ===========================================================
 
 Medicine_ID    Generic_Name  Total_Waste_Value  Waste_Percentage Waste_Risk
-  MED119546   Psyllium Husk         176,116.05             48.63   Critical
-  MED119546   Psyllium Husk         176,116.05            121.43   Critical
-  MED038774        Naproxen         163,044.48             51.63   Critical
-  MED038774        Naproxen         163,044.48             83.82   Critical
-  MED054498 Zinc Pyrithione         139,624.33             65.53   Critical
-  MED054498 Zinc Pyrithione         139,624.33             54.49   Critical
-  MED094429 Naproxen Sodium         129,973.76            153.67   Critical
-  MED094429 Naproxen Sodium         129,973.76             36.76   Critical
-  MED040913         Menthol         119,030.00             51.95   Critical
-  MED036956   Mammary Drops         117,570.42             23.71       High
+  MED119546   Psyllium Husk         176,116.05             69.17   Critical
+  MED119546   Psyllium Husk         176,116.05             99.25   Critical
+  MED038774        Naproxen         163,044.48             73.19   Critical
+  MED038774        Naproxen         163,044.48             58.63   Critical
+  MED054498 Zinc Pyrithione         139,624.33             97.78   Critical
+  MED054498 Zinc Pyrithione         139,624.33             46.14   Critical
+  MED094429 Naproxen Sodium         129,973.76            237.73   Critical
+  MED094429 Naproxen Sodium         129,973.76             31.34   Critical
+  MED040913         Menthol         119,030.00             52.63   Critical
+  MED036956   Mammary Drops         117,570.42             24.12       High
 
 ===========================================================
 SUPPLIER RISK SUMMARY
 ===========================================================
 
-Supplier_Risk  Medicines    Revenue         Waste
-         High        634 153,309.44  8,756,490.52
-          Low       3192 649,719.50 47,768,238.42
-       Medium       1128 245,587.75 16,126,424.78
+Supplier_Risk  Medicines      Revenue         Waste
+         High        634 1,870,468.16  8,756,490.52
+          Low       3192 9,118,286.65 47,768,238.42
+       Medium       1128 3,303,429.04 16,126,424.78
 
 ===========================================================
 EXECUTIVE RECOMMENDATION SUMMARY
 ===========================================================
 
              Executive_Recommendation Executive_Priority  Count
-Continue Standard Business Monitoring                Low   2419
-        Critical Inventory Monitoring             Medium    964
-  Immediate Executive Review Required           Critical    701
-    Launch Waste Reduction Initiative                Low    456
-             Review Supplier Contract                Low    414
+Continue Standard Business Monitoring                Low   2205
+        Critical Inventory Monitoring             Medium    931
+  Immediate Executive Review Required           Critical   1028
+    Launch Waste Reduction Initiative                Low    410
+             Review Supplier Contract                Low    380
 
 ===========================================================
 REPORT REQUIREMENTS

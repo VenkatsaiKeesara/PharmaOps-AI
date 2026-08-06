@@ -1,65 +1,65 @@
 Dataset,Column,Data_Type,Missing_Values,Unique_Values,Sample_Value
-Feature Store,Inventory_ID,object,0,4954,INV004233
-Feature Store,Medicine_ID,object,0,4824,MED056437
-Feature Store,Supplier_ID,object,0,75,SUP0058
-Feature Store,Batch_Number,object,0,4954,BAT986959
-Feature Store,Manufacturing_Date,object,0,1084,2026-03-05
-Feature Store,Expiry_Date,object,0,1531,2027-03-30
-Feature Store,Quantity_In_Stock,int64,0,993,992
-Feature Store,Unit_Cost,float64,0,4753,597.63
-Feature Store,Selling_Price,float64,0,4788,806.78
-Feature Store,Reorder_Level,int64,0,176,118
-Feature Store,Storage_Temperature,object,0,3,Frozen (-20Â°C)
+Feature Store,Inventory_ID,object,0,4954,INV002361
+Feature Store,Medicine_ID,object,0,4824,MED000911
+Feature Store,Supplier_ID,object,0,75,SUP0048
+Feature Store,Batch_Number,object,0,4954,BAT820020
+Feature Store,Manufacturing_Date,object,0,1084,2026-03-06
+Feature Store,Expiry_Date,object,0,1531,2027-03-31
+Feature Store,Quantity_In_Stock,int64,0,989,993
+Feature Store,Unit_Cost,float64,0,4753,596.32
+Feature Store,Selling_Price,float64,0,4788,798.36
+Feature Store,Reorder_Level,int64,0,176,87
+Feature Store,Storage_Temperature,object,0,3,Refrigerated (2â€“8Â°C)
 Feature Store,Warehouse_Location,object,0,5,WH-A
 Feature Store,Stock_Status,object,0,3,In Stock
-Feature Store,Last_Restock_Date,object,0,1038,2026-04-23
-Feature Store,Product_NDC,object,0,4824,98132-316
-Feature Store,Generic_Name,object,0,2088,Titanium Dioxide
-Feature Store,Brand_Name,object,0,3193,Bareminerals Barepro Performance Wear Liquid Foundation Broad Spectrum Spf 20 Latte 24
-Feature Store,Manufacturer,object,0,1500,Orveon Global Us Llc
-Feature Store,Active_Ingredient,object,0,1246,TITANIUM DIOXIDE
-Feature Store,Strength,object,0,1066,33.2 mg/mL
-Feature Store,Dosage_Form,object,0,106,LIQUID
-Feature Store,Route,object,0,33,TOPICAL
-Feature Store,Pharm_Class,object,0,319,UNKNOWN
-Feature Store,Category_ID,object,0,14,CAT015
-Feature Store,Supplier_Name,object,0,75,RK Pharma Agencies
+Feature Store,Last_Restock_Date,object,0,1038,2026-05-07
+Feature Store,Product_NDC,object,0,4824,76420-836
+Feature Store,Generic_Name,object,0,2088,Gabapentin
+Feature Store,Brand_Name,object,0,3193,Gabapentin
+Feature Store,Manufacturer,object,0,1500,"Asclemed Usa, Inc."
+Feature Store,Active_Ingredient,object,0,1246,GABAPENTIN
+Feature Store,Strength,object,0,1066,600 mg/1
+Feature Store,Dosage_Form,object,0,106,TABLET
+Feature Store,Route,object,0,33,ORAL
+Feature Store,Pharm_Class,object,0,319,Decreased Central Nervous System Disorganized Electrical Activity [PE]
+Feature Store,Category_ID,object,0,14,CAT005
+Feature Store,Supplier_Name,object,0,75,Universal Pharma Traders
 Feature Store,Supplier_Type,object,0,3,Wholesaler
 Feature Store,Supplier_Category,object,0,2,Domestic
-Feature Store,Preferred_Supplier,object,0,2,No
-Feature Store,City,object,0,18,Visakhapatnam
-Feature Store,State,object,0,11,Andhra Pradesh
-Feature Store,Contact_Email,object,0,75,procurement@rkagencies.in
-Feature Store,Contact_Number,int64,0,75,8489250532
+Feature Store,Preferred_Supplier,object,0,2,Yes
+Feature Store,City,object,0,18,Hyderabad
+Feature Store,State,object,0,11,Telangana
+Feature Store,Contact_Email,object,0,75,procurement@universaltraders.in
+Feature Store,Contact_Number,int64,0,75,6562697526
 Feature Store,Lead_Time_Days,int64,0,19,4
-Feature Store,Supplier_Rating,float64,0,16,4.3
-Feature Store,Active_Status,object,0,2,Active
-Feature Store,Contract_Start_Date,object,0,73,2022-12-26
-Feature Store,Contract_End_Date,object,0,75,2025-12-25
-Feature Store,GST_Number,object,0,75,37DOZNX8284Z1Z5
-Feature Store,Category_Name,object,0,14,Others
-Feature Store,Description,object,0,14,Medicines that do not fit into the predefined business categories
-Feature Store,Total_Revenue,float64,0,617,0.0
-Feature Store,Total_Quantity_Sold,float64,0,13,0.0
-Feature Store,Average_Discount,float64,0,9,0.0
-Feature Store,Total_Transactions,float64,0,4,0.0
-Feature Store,Total_Waste_Value,float64,0,2447,2390.52
-Feature Store,Total_Quantity_Wasted,float64,0,217,4.0
-Feature Store,Inventory_Value,float64,0,4953,592848.96
-Feature Store,Potential_Sales_Value,float64,0,4950,800325.76
-Feature Store,Potential_Gross_Profit,float64,0,4950,207476.80000000005
-Feature Store,Profit_per_Unit,float64,0,4650,209.15
-Feature Store,Profit_Margin_Percentage,float64,0,1179,25.92
-Feature Store,Markup_Percentage,float64,0,1857,35.0
-Feature Store,Revenue_per_Transaction,float64,0,617,0.0
-Feature Store,Revenue_per_Unit_Sold,float64,0,618,0.0
-Feature Store,Inventory_ROI,float64,0,644,-100.0
-Feature Store,Cost_to_Revenue_Ratio,float64,0,643,0.0
-Feature Store,Days_to_Expiry,int64,0,1531,240
-Feature Store,Inventory_Age_Days,int64,0,1084,150
-Feature Store,Days_Since_Last_Restock,int64,0,1038,101
-Feature Store,Stock_Difference,int64,0,1099,874
-Feature Store,Stock_Coverage_Ratio,float64,0,4704,8.40677966101695
+Feature Store,Supplier_Rating,float64,0,16,4.0
+Feature Store,Active_Status,object,0,2,Inactive
+Feature Store,Contract_Start_Date,object,0,73,2025-05-31
+Feature Store,Contract_End_Date,object,0,75,2028-05-30
+Feature Store,GST_Number,object,0,75,36SIAKF8196E1Z5
+Feature Store,Category_Name,object,0,14,Neurology
+Feature Store,Description,object,0,14,Medicines for neurological disorders and the central nervous system
+Feature Store,Total_Revenue,float64,0,4182,0.0
+Feature Store,Total_Quantity_Sold,float64,0,28,0.0
+Feature Store,Average_Discount,float64,0,46,0.0
+Feature Store,Total_Transactions,float64,0,10,0.0
+Feature Store,Total_Waste_Value,float64,0,2447,0.0
+Feature Store,Total_Quantity_Wasted,float64,0,217,0.0
+Feature Store,Inventory_Value,float64,0,4934,592145.76
+Feature Store,Potential_Sales_Value,float64,0,4935,792771.48
+Feature Store,Potential_Gross_Profit,float64,0,4935,200625.72
+Feature Store,Profit_per_Unit,float64,0,4650,202.04
+Feature Store,Profit_Margin_Percentage,float64,0,4936,25.306879102159424
+Feature Store,Markup_Percentage,float64,0,4954,33.881137644217866
+Feature Store,Revenue_per_Transaction,float64,0,4183,0.0
+Feature Store,Revenue_per_Unit_Sold,float64,0,4183,0.0
+Feature Store,Inventory_ROI,float64,0,4937,33.881137644217866
+Feature Store,Cost_to_Revenue_Ratio,float64,0,4935,74.69312089784059
+Feature Store,Days_to_Expiry,int64,0,1531,236
+Feature Store,Inventory_Age_Days,int64,0,1084,154
+Feature Store,Days_Since_Last_Restock,int64,0,1038,92
+Feature Store,Stock_Difference,int64,0,1094,906
+Feature Store,Stock_Coverage_Ratio,float64,0,4658,11.413793103448276
 Feature Store,Low_Stock_Flag,int64,0,2,0
 Feature Store,Overstock_Flag,int64,0,2,1
 Feature Store,Out_of_Stock_Flag,int64,0,2,0
@@ -67,23 +67,23 @@ Feature Store,Expiry_Risk,object,0,5,Low
 Feature Store,Near_Expiry_Flag,int64,0,2,0
 Feature Store,Inventory_Health_Score,int64,0,9,90
 Feature Store,Business_Priority,object,0,2,Low
-Feature Store,Cumulative_Inventory_Value,float64,0,4952,592848.96
-Feature Store,Cumulative_Percentage,float64,0,4952,0.0800696117990364
+Feature Store,Cumulative_Inventory_Value,float64,0,4936,592145.76
+Feature Store,Cumulative_Percentage,float64,0,4936,0.0807675827871267
 Feature Store,ABC_Class,object,0,3,A
 Feature Store,Inventory_Criticality,object,0,4,High
 Feature Store,Stock_Priority,object,0,4,Reduce Inventory
-Feature Store,Revenue_Percentile,float64,0,617,0.4353048041986274
-Feature Store,Revenue_Category,object,0,2,Medium
-Feature Store,Sales_Percentile,float64,0,13,0.4353048041986274
-Feature Store,Movement_Type,object,0,2,Medium Moving
-Feature Store,High_Revenue_Flag,int64,0,1,1
-Feature Store,Sales_Performance_Score,float64,0,1767,52.98
-Feature Store,Waste_Percentage,float64,0,2405,0.4032258064516129
-Feature Store,Waste_Cost_Ratio,float64,0,2435,0.0040322580645161
+Feature Store,Revenue_Percentile,float64,0,4183,0.0655026241421073
+Feature Store,Revenue_Category,object,0,4,Low
+Feature Store,Sales_Percentile,float64,0,28,0.0655026241421073
+Feature Store,Movement_Type,object,0,3,Slow Moving
+Feature Store,High_Revenue_Flag,int64,0,2,0
+Feature Store,Sales_Performance_Score,float64,0,3692,25.4
+Feature Store,Waste_Cost_Ratio,float64,0,2429,0.0
+Feature Store,Waste_Percentage,float64,0,2444,0.0
 Feature Store,Waste_Risk,object,0,4,Low
-Feature Store,Supplier_Performance_Index,float64,0,22,82.0
+Feature Store,Supplier_Performance_Index,float64,0,22,76.0
 Feature Store,Supplier_Risk,object,0,3,Low
-Feature Store,Executive_Risk_Score,float64,0,2450,77.28
+Feature Store,Executive_Risk_Score,float64,0,2730,66.79
 Feature Store,Executive_Priority,object,0,4,Medium
 Fact_Medicine_Performance,Inventory_ID,object,0,4954,INV004233
 Fact_Medicine_Performance,Medicine_ID,object,0,4824,MED056437
@@ -104,16 +104,16 @@ Fact_Medicine_Performance,Revenue_per_Transaction,float64,0,617,0.0
 Fact_Medicine_Performance,Revenue_per_Unit_Sold,float64,0,618,0.0
 Fact_Medicine_Performance,Total_Waste_Value,float64,0,2447,2390.52
 Fact_Medicine_Performance,Total_Quantity_Wasted,float64,0,217,4.0
-Fact_Medicine_Performance,Waste_Percentage,float64,0,2405,0.4032258064516129
+Fact_Medicine_Performance,Waste_Percentage,float64,0,2452,0.4032258064516129
 Fact_Medicine_Performance,Waste_Cost_Ratio,float64,0,2435,0.0040322580645161
 Fact_Medicine_Performance,Profit_per_Unit,float64,0,4650,209.15
-Fact_Medicine_Performance,Profit_Margin_Percentage,float64,0,1179,25.92
-Fact_Medicine_Performance,Markup_Percentage,float64,0,1857,35.0
-Fact_Medicine_Performance,Inventory_ROI,float64,0,644,-100.0
-Fact_Medicine_Performance,Cost_to_Revenue_Ratio,float64,0,643,0.0
-Fact_Medicine_Performance,Days_to_Expiry,int64,0,1531,240
-Fact_Medicine_Performance,Inventory_Age_Days,int64,0,1084,150
-Fact_Medicine_Performance,Days_Since_Last_Restock,int64,0,1038,101
+Fact_Medicine_Performance,Profit_Margin_Percentage,float64,0,4951,25.9240437293934
+Fact_Medicine_Performance,Markup_Percentage,float64,0,4954,34.99656978398005
+Fact_Medicine_Performance,Inventory_ROI,float64,0,4951,34.996569783980064
+Fact_Medicine_Performance,Cost_to_Revenue_Ratio,float64,0,4950,74.0759562706066
+Fact_Medicine_Performance,Days_to_Expiry,int64,0,1531,235
+Fact_Medicine_Performance,Inventory_Age_Days,int64,0,1084,155
+Fact_Medicine_Performance,Days_Since_Last_Restock,int64,0,1038,106
 Fact_Medicine_Performance,Stock_Difference,int64,0,1099,874
 Fact_Medicine_Performance,Stock_Coverage_Ratio,float64,0,4704,8.40677966101695
 Fact_Medicine_Performance,Low_Stock_Flag,int64,0,2,0
@@ -129,9 +129,9 @@ Fact_Medicine_Performance,Inventory_Criticality,object,0,4,High
 Fact_Medicine_Performance,Stock_Priority,object,0,4,Reduce Inventory
 Fact_Medicine_Performance,Executive_Priority,object,0,4,Medium
 Fact_Medicine_Performance,Inventory_Health_Score,int64,0,9,90
-Fact_Medicine_Performance,Sales_Performance_Score,float64,0,1767,52.98
+Fact_Medicine_Performance,Sales_Performance_Score,float64,0,3424,52.99
 Fact_Medicine_Performance,Supplier_Performance_Index,float64,0,22,82.0
-Fact_Medicine_Performance,Executive_Risk_Score,float64,0,2450,77.28
+Fact_Medicine_Performance,Executive_Risk_Score,float64,0,2432,77.29
 Dim_Medicine,Medicine_ID,object,0,4824,MED000020
 Dim_Medicine,Product_NDC,object,0,4824,72162-1824
 Dim_Medicine,Generic_Name,object,0,2088,Temazepam

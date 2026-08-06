@@ -1,76 +1,76 @@
 Supplier_ID,Supplier_Name,Supplier_Rating,Lead_Time,Performance_Index,Inventory_Value
-SUP0018,Intas Pharmaceuticals Ltd,5.0,8.0,92.0,10455415.0
-SUP0045,Eastern Pharma Distribution,4.7,3.0,91.0,9974337.71
-SUP0010,Glenmark Pharmaceuticals Ltd,4.9,10.0,88.0,10420632.5
-SUP0034,Tata 1mg Distribution,4.6,4.0,88.0,9916159.53
-SUP0052,Om Medical Corporation,4.5,2.0,88.0,13057740.52
-SUP0063,HealthCare Wholesale Solutions,4.5,2.0,88.0,6204667.5
-SUP0033,Reliance Retail Pharma,4.6,4.0,88.0,7711825.61
-SUP0013,Sanofi India Ltd,4.9,10.0,88.0,7532250.85
-SUP0035,Netmeds Distribution,4.6,4.0,88.0,9282780.11
-SUP0028,Emcure Pharmaceuticals Ltd,4.8,9.0,87.0,8534263.55
-SUP0022,Natco Pharma Ltd,4.9,11.0,87.0,10385451.02
-SUP0070,Galaxy Medical Suppliers,4.6,6.0,86.0,11403629.06
-SUP0006,Torrent Pharmaceuticals Ltd,4.8,10.0,86.0,9718320.48
-SUP0062,Prime Healthcare Traders,4.4,2.0,86.0,11132357.37
-SUP0068,CareWell Medical Agencies,4.5,4.0,86.0,7349954.65
-SUP0027,Strides Pharma Science Ltd,4.8,10.0,86.0,8547471.790000001
-SUP0064,MediServe Pharma,4.4,3.0,85.0,9432254.93
-SUP0019,Biocon Ltd,4.9,13.0,85.0,9072095.99
-SUP0026,Wockhardt Ltd,4.7,9.0,85.0,9456940.1
-SUP0036,Wellness Forever Distribution,4.5,5.0,85.0,7995761.42
-SUP0069,Unity Pharma Traders,4.5,5.0,85.0,13669976.32
-SUP0057,City Medical Distributors,4.4,4.0,84.0,10556779.05
-SUP0023,Divi's Laboratories Ltd,5.0,16.0,84.0,9349798.41
-SUP0059,SV Medical Traders,4.5,7.0,83.0,11035573.24
-SUP0056,Global Pharma Agencies,4.4,5.0,83.0,10106243.14
-SUP0075,Supreme Pharma Traders,4.4,5.0,83.0,7890527.91
-SUP0066,Sigma Healthcare Suppliers,4.4,5.0,83.0,9563478.57
-SUP0054,National Pharma Traders,4.3,3.0,83.0,10330126.93
-SUP0002,Dr. Reddy's Laboratories Ltd,4.6,10.0,82.0,7100215.43
-SUP0044,North India Medical Suppliers,4.4,6.0,82.0,8150208.82
-SUP0058,RK Pharma Agencies,4.3,4.0,82.0,9379407.05
-SUP0072,MedCore Healthcare,4.2,2.0,82.0,12761728.05
-SUP0020,Alembic Pharmaceuticals Ltd,4.5,9.0,81.0,10826664.72
-SUP0043,South India Pharma Distributors,4.2,3.0,81.0,10744418.79
-SUP0008,Mankind Pharma Ltd,4.8,15.0,81.0,8017523.46
-SUP0025,Ipca Laboratories Ltd,4.7,13.0,81.0,9894235.55
-SUP0031,MedPlus Health Services,4.3,6.0,80.0,9158696.32
-SUP0004,Lupin Ltd,4.7,14.0,80.0,7958544.38
-SUP0067,Apex Pharma Traders,4.2,6.0,78.0,7485473.03
-SUP0038,CarePlus Distributors,4.4,10.0,78.0,8221785.94
-SUP0003,Cipla Ltd,4.6,14.0,78.0,10725765.87
-SUP0017,Micro Labs Ltd,4.3,8.0,78.0,11339854.17
-SUP0007,Alkem Laboratories Ltd,4.5,13.0,77.0,10835543.33
-SUP0042,MediLink Healthcare,4.3,9.0,77.0,11384044.02
-SUP0029,Ajanta Pharma Ltd,4.8,19.0,77.0,11382492.33
-SUP0009,Zydus Lifesciences Ltd,4.8,20.0,76.0,8729472.53
-SUP0001,Sun Pharmaceutical Industries Ltd,4.2,8.0,76.0,13716285.82
-SUP0048,Universal Pharma Traders,4.0,4.0,76.0,7863778.2700000005
-SUP0024,Granules India Ltd,4.7,18.0,76.0,9606090.98
-SUP0037,PharmEasy Supply Chain,4.1,9.0,73.0,7306608.04
-SUP0005,Aurobindo Pharma Ltd,4.5,17.0,73.0,10761865.26
-SUP0046,Western Medical Distributors,4.0,7.0,73.0,6369384.29
-SUP0039,LifeCare Pharma Distributors,4.0,7.0,73.0,11137010.84
-SUP0012,Pfizer India Ltd,4.5,17.0,73.0,8881698.53
-SUP0065,Nova Medical Traders,4.0,7.0,73.0,9158804.39
-SUP0061,Elite Medical Agencies,3.7,2.0,72.0,8722654.86
-SUP0053,Jai Pharma Agencies,3.8999999999999995,6.0,72.0,10385161.17
-SUP0051,Sri Balaji Medical Suppliers,3.9,6.0,72.0,10858945.82
-SUP0015,Bayer Pharmaceuticals Pvt Ltd,4.2,12.0,72.0,9152393.41
-SUP0014,GSK Pharmaceuticals Ltd,4.2,13.0,71.0,11546517.01
-SUP0030,Eris Lifesciences Ltd,4.2,13.0,71.0,10085483.89
-SUP0016,Cadila Pharmaceuticals Ltd,4.3,16.0,70.0,13596610.12
-SUP0050,Sai Pharma Agencies,3.8,6.0,70.0,13699216.41
-SUP0049,Shree Medical Agencies,3.8,7.0,69.0,10396528.76
-SUP0060,Metro Pharma Suppliers,3.8,7.0,69.0,10596737.22
-SUP0032,Apollo Pharmacy Distribution,3.9,9.0,69.0,11230169.39
-SUP0040,Prime Medical Distributors,3.8,7.0,69.0,13139155.39
-SUP0073,Trust Medical Distributors,3.5,2.0,68.0,6103259.41
-SUP0041,HealthFirst Distributors,3.9,10.0,68.0,8010046.87
-SUP0055,United Medical Suppliers,3.7,6.0,68.0,8098332.26
-SUP0047,Central Healthcare Suppliers,3.9,10.0,68.0,11679222.35
-SUP0011,Abbott India Ltd,4.2,17.0,67.0,10834198.4
-SUP0021,Hetero Labs Ltd,4.3,19.0,67.0,11245922.54
-SUP0071,LifeLine Pharma Agencies,3.6,5.0,67.0,9146882.5
-SUP0074,National Drug Suppliers,3.5,7.0,63.0,12905076.82
+SUP0018,Intas Pharmaceuticals Ltd,5.0,8.0,92.0,10366271.6
+SUP0045,Eastern Pharma Distribution,4.7,3.0,91.0,9895586.62
+SUP0010,Glenmark Pharmaceuticals Ltd,4.9,10.0,88.0,10311035.77
+SUP0034,Tata 1mg Distribution,4.6,4.0,88.0,9816876.72
+SUP0052,Om Medical Corporation,4.5,2.0,88.0,12918007.76
+SUP0063,HealthCare Wholesale Solutions,4.5,2.0,88.0,6139376.45
+SUP0033,Reliance Retail Pharma,4.6,4.0,88.0,7637008.93
+SUP0013,Sanofi India Ltd,4.9,10.0,88.0,7464335.16
+SUP0035,Netmeds Distribution,4.6,4.0,88.0,9170972.51
+SUP0028,Emcure Pharmaceuticals Ltd,4.8,9.0,87.0,8431261.33
+SUP0022,Natco Pharma Ltd,4.9,11.0,87.0,10269707.31
+SUP0070,Galaxy Medical Suppliers,4.6,6.0,86.0,11291131.290000001
+SUP0006,Torrent Pharmaceuticals Ltd,4.8,10.0,86.0,9616882.2
+SUP0062,Prime Healthcare Traders,4.4,2.0,86.0,11040727.88
+SUP0068,CareWell Medical Agencies,4.5,4.0,86.0,7276010.47
+SUP0027,Strides Pharma Science Ltd,4.8,10.0,86.0,8458366.36
+SUP0064,MediServe Pharma,4.4,3.0,85.0,9337878.43
+SUP0019,Biocon Ltd,4.9,13.0,85.0,8951646.49
+SUP0026,Wockhardt Ltd,4.7,9.0,85.0,9373133.4
+SUP0036,Wellness Forever Distribution,4.5,5.0,85.0,7933474.22
+SUP0069,Unity Pharma Traders,4.5,5.0,85.0,13555185.38
+SUP0057,City Medical Distributors,4.4,4.0,84.0,10470126.68
+SUP0023,Divi's Laboratories Ltd,5.0,16.0,84.0,9242175.98
+SUP0059,SV Medical Traders,4.5,7.0,83.0,10927421.02
+SUP0056,Global Pharma Agencies,4.4,5.0,83.0,10015490.38
+SUP0075,Supreme Pharma Traders,4.4,5.0,83.0,7810782.88
+SUP0066,Sigma Healthcare Suppliers,4.4,5.0,83.0,9447404.79
+SUP0054,National Pharma Traders,4.3,3.0,83.0,10240704.45
+SUP0002,Dr. Reddy's Laboratories Ltd,4.6,10.0,82.0,7023754.6
+SUP0044,North India Medical Suppliers,4.4,6.0,82.0,8058902.24
+SUP0058,RK Pharma Agencies,4.3,4.0,82.0,9270195.08
+SUP0072,MedCore Healthcare,4.2,2.0,82.0,12645725.64
+SUP0020,Alembic Pharmaceuticals Ltd,4.5,9.0,81.0,10705780.05
+SUP0043,South India Pharma Distributors,4.2,3.0,81.0,10661681.5
+SUP0008,Mankind Pharma Ltd,4.8,15.0,81.0,7949834.88
+SUP0025,Ipca Laboratories Ltd,4.7,13.0,81.0,9789231.86
+SUP0031,MedPlus Health Services,4.3,6.0,80.0,9079757.03
+SUP0004,Lupin Ltd,4.7,14.0,80.0,7892036.88
+SUP0067,Apex Pharma Traders,4.2,6.0,78.0,7402266.18
+SUP0038,CarePlus Distributors,4.4,10.0,78.0,8131674.4399999995
+SUP0003,Cipla Ltd,4.6,14.0,78.0,10617306.1
+SUP0017,Micro Labs Ltd,4.3,8.0,78.0,11252282.83
+SUP0007,Alkem Laboratories Ltd,4.5,13.0,77.0,10739544.07
+SUP0042,MediLink Healthcare,4.3,9.0,77.0,11282623.35
+SUP0029,Ajanta Pharma Ltd,4.8,19.0,77.0,11285881.120000001
+SUP0009,Zydus Lifesciences Ltd,4.8,20.0,76.0,8653640.7
+SUP0001,Sun Pharmaceutical Industries Ltd,4.2,8.0,76.0,13572631.75
+SUP0048,Universal Pharma Traders,4.0,4.0,76.0,7791973.92
+SUP0024,Granules India Ltd,4.7,18.0,76.0,9510920.91
+SUP0037,PharmEasy Supply Chain,4.1,9.0,73.0,7242923.23
+SUP0005,Aurobindo Pharma Ltd,4.5,17.0,73.0,10658887.7
+SUP0046,Western Medical Distributors,4.0,7.0,73.0,6289475.06
+SUP0039,LifeCare Pharma Distributors,4.0,7.0,73.0,11024723.39
+SUP0012,Pfizer India Ltd,4.5,17.0,73.0,8794825.45
+SUP0065,Nova Medical Traders,4.0,7.0,73.0,9073757.2
+SUP0061,Elite Medical Agencies,3.7,2.0,72.0,8599021.87
+SUP0053,Jai Pharma Agencies,3.8999999999999995,6.0,72.0,10284208.85
+SUP0051,Sri Balaji Medical Suppliers,3.9,6.0,72.0,10729945.95
+SUP0015,Bayer Pharmaceuticals Pvt Ltd,4.2,12.0,72.0,9044269.28
+SUP0014,GSK Pharmaceuticals Ltd,4.2,13.0,71.0,11428535.540000001
+SUP0030,Eris Lifesciences Ltd,4.2,13.0,71.0,9974088.46
+SUP0016,Cadila Pharmaceuticals Ltd,4.3,16.0,70.0,13478562.07
+SUP0050,Sai Pharma Agencies,3.8,6.0,70.0,13573814.01
+SUP0049,Shree Medical Agencies,3.8,7.0,69.0,10302158.32
+SUP0060,Metro Pharma Suppliers,3.8,7.0,69.0,10472973.85
+SUP0032,Apollo Pharmacy Distribution,3.9,9.0,69.0,11130579.69
+SUP0040,Prime Medical Distributors,3.8,7.0,69.0,13038379.450000001
+SUP0073,Trust Medical Distributors,3.5,2.0,68.0,6035636.38
+SUP0041,HealthFirst Distributors,3.9,10.0,68.0,7930800.61
+SUP0055,United Medical Suppliers,3.7,6.0,68.0,8010563.48
+SUP0047,Central Healthcare Suppliers,3.9,10.0,68.0,11588513.35
+SUP0011,Abbott India Ltd,4.2,17.0,67.0,10720118.09
+SUP0021,Hetero Labs Ltd,4.3,19.0,67.0,11128856.02
+SUP0071,LifeLine Pharma Agencies,3.6,5.0,67.0,9077520.41
+SUP0074,National Drug Suppliers,3.5,7.0,63.0,12788039.26

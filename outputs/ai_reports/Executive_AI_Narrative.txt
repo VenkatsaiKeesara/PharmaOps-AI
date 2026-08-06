@@ -7,19 +7,19 @@ Total Medicines          : 4,824
 
 Total Suppliers          : 75
 
-Total Revenue            : ₹ 1,048,616.69
+Total Revenue            : ₹ 14,292,183.85
 
-Inventory Value          : ₹ 740,416,928.07
+Inventory Value          : ₹ 733,147,804.56
 
-Potential Sales Value    : ₹ 961,531,775.60
+Potential Sales Value    : ₹ 952,090,541.76
 
-Potential Gross Profit   : ₹ 221,114,847.53
+Potential Gross Profit   : ₹ 218,942,737.20
 
 Total Waste Value        : ₹ 72,651,153.72
 
 Average Supplier Rating  : 4.34
 
-Average Profit Margin    : 22.88%
+Average Profit Margin    : 22.80%
 
 ================================================
 
